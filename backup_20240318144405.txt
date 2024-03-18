@@ -1,0 +1,336 @@
+[verein_admin]
+id;name;createddate;features;logincount;aktioncount;aktionlastdate;filecount;filebytes;filebytesmailarchiv;wertezentral;werte;typ;parentid;farmurl;dbid;mandant;url;service;expireddate;bemerkungen;bugcredits;region;mailsremote
+"322";"Universitaet_des_Dritten_Lebensalters_eV";"2024-01-12";"mitglieder=250";"15";"1166";"2024-03-18 14:44:05";"35";"780867";"23618";"";"name=Universität des Dritten Lebensalters e.V.\nadressestrasse=Waldweg 26\nadresseort=37073 Göttingen\nbank=Sparkasse Göttingen\nLayout=ResponsiveV4\nabsender=Universität des Dritten Lebensalters e.V. <service@udl.uni-goettingen.de>\nnewsletter.subscribe=nav\nnewsletter.subscribe.gruppe=Newsletter\nmitgliedsantrag.enable=startintern\ngastantrag.enable=button\nsicherheit.doubleoptin=alle\nartveranstaltung.standard=no\nmembers.passwort.minlaenge=10\nmembers.passwort.komplexitaet=3\nkasse.kontorahmen.standard.forderung=1200\nkasse.kontorahmen.standard.verbindlichkeit=3300\nkasse.kontorahmen.standard.kasse=1600\nkasse.kontorahmen.standard.bank=1800\nevents.rechnung.konto=4205\nevents.rechnungextern.konto=4205\nevents.abmeldung.konto=4205\nevents.abmeldungextern.konto=4205\nmembers.rechnung.konto=4000\nshop.rechnung.konto=4200\nshop.rechnung.spenden=4040\nplatzbuchung.rechnung.konto=4201\nbeleg.rechnung.konto=4090\nbeleg.ausgabe.konto=6300\nkasse.kontorahmen.standard.rueckbuchung=6280\nkasse.kontorahmen.standard.ausbuchung=6280\nkasse.kontorahmen.standard.mahnkosten=9288\nkasse.kontorahmen.standard.paypal=6855\nkasse.kontorahmen.standard.sachkonten=0630\nkasse.kontorahmen.standard.abschreibung=6220\nevents.rechnung.konto=5000\nevents.rechnungextern.konto=5000\nevents.abmeldung.konto=5000\nevents.abmeldungextern.konto=5000\nmembers.rechnung.konto=2110\nshop.rechnung.konto=8000\nshop.rechnung.spenden=3220\nplatzbuchung.rechnung.konto=5105\nbeleg.rechnung.konto=5250\nbeleg.ausgabe.konto=2900\nabsender.bounce=z\nstartseite.layout=70-30\nevents.fields.hidden=ort,zeit,anzahltage\nEvents.fields.default.zeit=00:00-23:59\nEvents.fields.default.anzahltage=1\nEvents.fields.default.akid=0\nEvents.fields.default.sichtbar=0\nEvents.fields.default.remindertarget=0\nEvents.fields.default.remindertarget2=0\nEvents.fields.default.oeffentlich=0\nEvents.fields.default.anmeldebestaetigungsmail=1\nEvents.fields.default.anmeldunguserpublic=0\nEvents.fields.default.warteliste=0\nEvents.fields.default.zahlungsweise=12\nEvents.fields.default.anmeldemail=0\nEvents.fields.default.bilder=1\nadressetelefon=0551/39-21384\nadresseemail=office@udl.uni-goettingen.de\nadresseurl=www.uni-goettingen.de/udl\nkontoinhaber=Universität des Dritten Lebensalters e.V.\niban=DE53260500010050589282\nbic=NOLADE21GOE\nevents.rechnung.bankkonto=0\nshop.hauptlager.user=0\nmembers.list.intern=profil\nmembers.displayname=namemnr\nmembers.login=vna\nstart.titel=Herzlich willkommen im Portal von {#Name#}\nevents.anmelden.anmeldenkurs=spaeter\nkasse.kontorahmen.standard.mwst=3800\nkasse.kontorahmen.standard.mwstreduziert=3801\nkasse.kontorahmen.standard.vorsteuer=1400\nkasse.kontorahmen.standard.vorsteuerreduziert=1401\n\n";"premium";"0";"";"10";"0";"";"V";"2024-03-10";"Suchmaschine google";"0";"";"0"
+
+[verein_bugs]
+id;mandant;uniquedbid;datumcreated;datumlast;userid;subject;modul;art;status;prio;priomandant;bugcredits;notiz;zeiten;mandantname;username;usermail;eskalationlevel;eskalationbugid;public;vote;gelesen
+
+[verein_bugstext]
+id;mandant;uniquedbid;bugid;datum;userid;username;usermail;userinfo;description;attachments;status;hidden;bugcredits;relnotes_handbuch;relnotes_text
+
+[verein_mitglieder]
+id;mandant;mitgliedsnummer;vorname;nachname;anrede;titel;firma;g_co;g_strasse;g_land;g_plz;g_ort;g_postfach;g_land_postfach;g_plz_postfach;g_ort_postfach;g_telefon;g_fax;g_mobil;g_email;g_homepage;g_freigabe;berufsstatus;berufsfunktion;mitarbeiter;umsatz;suchwoerter;beschreibung;p_co;p_strasse;p_land;p_plz;p_ort;p_telefon;p_fax;p_mobil;p_email;p_homepage;p_familienstand;p_freigabe;geburtstag;geburtsname;geburtsort;staatsangehoerigkeit;einzugsermaechtigung;konto_inhaber;konto_nr;blz;bank;konto_iban;konto_bic;kontodaten;bemerkung;aufnahmeinteressent;aufnahmegast;aufnahmemitglied;modified;foto;freigabe;postgp;emailgp;emailapp;rechnunggp;userlogin;userpwd;geloescht;geloeschtdatum;lastlogin;lastloginintranet;loginintranetcount;logincount;loginerrors;ichbeiwj;ichbiete;ichsuche;freigabe_i;freigabe_j;branche;funktion;r_firma;r_co;r_strasse;r_land;r_plz;r_ort;r_email;passwortreset;ansprache;attachments;gekuendigt;austrittsgrund;leserechte;hauptfreigabe;signatur;zustellung;emailverband;beitragszahler;mitgliedstyp;hauptmitglied;sprache;mandatsreferenz;mandatsdatum;authsecret;kvp;linkmandanten;linkid;linkexclude;appuserid;emailconfig;webdav
+"26671";"322";"";"Matthias";"Conradt";"Herr";"";"";"";"";"";"";"";"";"";"";"";"UDL-Büro 0551-39-21384 - persönlich 0151 16224406";"";"";"service@udl.uni-goettingen.de";"";"";"0";"";"0";"0";"";"";"";"";"";"";"";"UDL-Büro 0551-39-21384 - persönlich 0151 16224406";"";"";"service@udl.uni-goettingen.de";"";"0";"";"0000-00-00";"";"";"";"0";"";"";"";"";"";"";"";"";"0000-00-00";"0000-00-00";"0000-00-00";"";"";"";"0";"0";"0";"0";"admin";"crypt:$2a$08$CD0VpdQAzXfmUyweoSTb9um0zaXrkgzda6xTzxvAvGXYCoE4Upr9W";"0";"0000-00-00";"0000-00-00 00:00:00";"0000-00-00 00:00:00";"0";"0";"0";"";"";"";"0";"0";"";"";"";"";"";"";"";"";"";"";"0";"";"0000-00-00";"0";"";"0";"";"0";"0";"0";"0";"0";"";"";"0000-00-00";"";"";"";"0";"";"0";"0";""
+"26677";"322";"";"Jürgen";"Goschke";"Herr";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"0";"";"0";"0";"";"";"";"";"";"";"";"";"";"";"juergen@goschke.net";"";"0";"";"0000-00-00";"";"";"";"0";"";"";"";"";"";"";"";"";"0000-00-00";"0000-00-00";"0000-00-00";"21.01.2024 22:36:33/Jürgen Goschke";"";"v";"0";"0";"0";"0";"juergen.goschke";"crypt:$2a$08$X.ZoQsPOUR3GmbyiWe2xgeZwJ9dY0LR4lthlpqcEE0gh6aByC45n2";"0";"0000-00-00";"0000-00-00 00:00:00";"0000-00-00 00:00:00";"0";"0";"0";"";"";"";"0";"0";"";"";"";"";"";"";"";"";"";"";"0";"";"0000-00-00";"0";"";"0";"";"0";"0";"0";"0";"0";"";"";"0000-00-00";"";"";"";"0";"";"0";"0";"838fdbdbb1cf3f63d0f6da7766db4530"
+"32453";"322";"";"Jürgen";"Goschke";"Herr";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"0";"";"0";"0";"";"";"";"am Försterberg 6";"";"37133";"Friedland";"";"";"";"jg@ggse.de";"";"0";"";"1959-07-18";"";"";"";"0";"";"";"";"";"";"";"";"";"2024-03-17";"0000-00-00";"0000-00-00";"17.03.2024 22:05:14/Jürgen Goschke";"";"v";"0";"0";"0";"0";"JGoschke";"crypt:$2a$08$s4r5hlbBmtvYVqg2i6/upuQCm7x2lv1QSRICOPy4UqVbfJBrETI0e";"0";"0000-00-00";"0000-00-00 00:00:00";"0000-00-00 00:00:00";"0";"0";"0";"";"";"";"0";"0";"";"";"";"";"";"";"";"";"";"";"0";"";"0000-00-00";"0";"";"0";"";"0";"0";"0";"0";"0";"";"";"0000-00-00";"";"";"";"0";"";"0";"0";"4d6230ed4353c87bdb41213ce9a5992d"
+
+[verein_netzwerk]
+id;mandant;rollequelle;mandantziel;rolleziel;showveranstaltungen;vfarbe;hfarbe
+
+[verein_sprache]
+id;mandant;datakey;deutsch;translation;status
+
+[verein_adminstatistik]
+id;mandant;datum;mitglied_verein;mitglied_normal;mitglied_geloescht;mitglied_gesperrt;mitglied_login;veranstaltungen;anmeldungen;gruppen;gruppenteilnehmer;bilder;rollen;mitgliederrollen;news;newsletter;artikel;beitraege;rechnungen;listen;listendaten;listenschema;projekte;projektaufgaben;logincount;aktioncount;files_bilder_count;files_bilder_bytes;files_projekte_count;files_projekte_bytes;files_fotos_count;files_fotos_bytes;files_attachments_count;files_attachments_bytes;files_mailarchiv_count;files_mailarchiv_bytes;files_etc_count;files_etc_bytes
+"19284";"322";"2024-01-13";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"5";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"3";"90";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"7";"330551"
+"19388";"322";"2024-01-14";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"5";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"3";"90";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"7";"331107"
+"19492";"322";"2024-01-15";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"5";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"3";"90";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"7";"331663"
+"19596";"322";"2024-01-16";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"5";"139";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"7";"339498"
+"19701";"322";"2024-01-17";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"6";"147";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"7";"341122"
+"19804";"322";"2024-01-18";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"6";"147";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"7";"341678"
+"19906";"322";"2024-01-19";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"6";"157";"0";"0";"0";"0";"0";"0";"1";"229";"3";"1927";"7";"344335"
+"20007";"322";"2024-01-20";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"6";"157";"0";"0";"0";"0";"0";"0";"1";"229";"3";"1927";"7";"344891"
+"20107";"322";"2024-01-21";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"2";"1";"0";"0";"1";"0";"1";"0";"1";"0";"0";"6";"158";"0";"0";"0";"0";"0";"0";"1";"229";"3";"1927";"7";"345572"
+"20207";"322";"2024-01-22";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"406181"
+"20306";"322";"2024-01-23";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"8";"405669"
+"20408";"322";"2024-01-24";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"8";"406225"
+"20511";"322";"2024-01-25";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"8";"406781"
+"20614";"322";"2024-01-26";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"8";"407337"
+"20717";"322";"2024-01-27";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"8";"407893"
+"20820";"322";"2024-01-28";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"8";"408449"
+"20924";"322";"2024-01-29";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"7";"409004"
+"21028";"322";"2024-01-30";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"7";"409560"
+"21132";"322";"2024-01-31";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"7";"410116"
+"21236";"322";"2024-02-01";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"410";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"8";"410672"
+"21337";"322";"2024-02-02";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"449";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"417551"
+"21439";"322";"2024-02-03";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"449";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"418109"
+"21544";"322";"2024-02-04";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"9";"449";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"418667"
+"21647";"322";"2024-02-05";"0";"2";"0";"0";"2";"0";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"10";"463";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"421048"
+"21752";"322";"2024-02-06";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"431523"
+"21856";"322";"2024-02-07";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"432081"
+"21962";"322";"2024-02-08";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"432639"
+"22071";"322";"2024-02-09";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"433197"
+"22181";"322";"2024-02-10";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"433755"
+"22294";"322";"2024-02-11";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"434313"
+"22408";"322";"2024-02-12";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"434871"
+"22522";"322";"2024-02-13";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"435429"
+"22635";"322";"2024-02-14";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"435987"
+"22749";"322";"2024-02-15";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"436545"
+"22864";"322";"2024-02-16";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"437103"
+"22978";"322";"2024-02-17";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"437661"
+"23094";"322";"2024-02-18";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"438219"
+"23211";"322";"2024-02-19";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"438777"
+"23328";"322";"2024-02-20";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"439335"
+"23447";"322";"2024-02-21";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"439893"
+"23566";"322";"2024-02-22";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"440451"
+"23683";"322";"2024-02-23";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"441009"
+"23801";"322";"2024-02-24";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"441567"
+"23919";"322";"2024-02-25";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"442125"
+"24038";"322";"2024-02-26";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"442683"
+"24158";"322";"2024-02-27";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"443241"
+"24278";"322";"2024-02-28";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"443799"
+"24398";"322";"2024-02-29";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"9";"444357"
+"24519";"322";"2024-03-01";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"444915"
+"24639";"322";"2024-03-02";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"445473"
+"24759";"322";"2024-03-03";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"446031"
+"24879";"322";"2024-03-04";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"446589"
+"24998";"322";"2024-03-05";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"447147"
+"25117";"322";"2024-03-06";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"447705"
+"25236";"322";"2024-03-07";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"448263"
+"25354";"322";"2024-03-08";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"448821"
+"25472";"322";"2024-03-09";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"449379"
+"25587";"322";"2024-03-10";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"449937"
+"25702";"322";"2024-03-11";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"450495"
+"25818";"322";"2024-03-12";"0";"2";"0";"0";"2";"1";"0";"5";"0";"0";"6";"4";"1";"0";"2";"2";"2";"1";"2";"1";"0";"0";"11";"512";"0";"0";"0";"0";"0";"0";"2";"3603";"5";"6488";"10";"451053"
+"25935";"322";"2024-03-13";"0";"2";"0";"0";"2";"2";"1";"5";"0";"0";"6";"4";"1";"0";"2";"2";"3";"1";"2";"1";"0";"0";"11";"537";"0";"0";"0";"0";"0";"0";"2";"5779";"8";"11241";"12";"464274"
+"26052";"322";"2024-03-14";"0";"2";"0";"0";"2";"2";"1";"5";"0";"0";"6";"4";"1";"0";"2";"2";"3";"1";"2";"1";"0";"0";"11";"537";"0";"0";"0";"0";"0";"0";"2";"5779";"8";"11241";"11";"462061"
+"26169";"322";"2024-03-15";"0";"2";"0";"0";"2";"2";"1";"5";"0";"0";"6";"4";"1";"0";"2";"2";"3";"1";"2";"1";"0";"0";"11";"537";"0";"0";"0";"0";"0";"0";"2";"5779";"8";"11241";"11";"462619"
+"26286";"322";"2024-03-16";"0";"2";"0";"0";"2";"2";"1";"5";"0";"0";"6";"4";"1";"0";"2";"2";"3";"1";"2";"1";"0";"0";"11";"538";"0";"0";"0";"0";"0";"0";"2";"5779";"8";"11241";"11";"463306"
+"26403";"322";"2024-03-17";"0";"2";"0";"0";"2";"2";"1";"5";"0";"0";"6";"4";"1";"0";"2";"2";"3";"1";"2";"1";"0";"0";"11";"658";"0";"0";"0";"0";"0";"0";"2";"5779";"8";"11241";"12";"584612"
+"26520";"322";"2024-03-18";"0";"3";"0";"0";"3";"4";"2";"10";"1";"0";"7";"5";"1";"0";"0";"2";"4";"1";"0";"1";"0";"0";"14";"1123";"0";"0";"0";"0";"0";"0";"2";"8704";"14";"23618";"19";"748545"
+
+[verein_anmeldungen]
+id;mandant;veranstaltungid;userid;anrede;titel;vorname;name;firma;strasse;ort;telefonnummer;email;anmerkungen;anmerkungenpublic;begleiter;anzahl;anzahlNE;status;zeitpunkt;typ;einladungid;bezahlt;protokoll;anwesend;bezahldetails;bemerkung;rvanmeldeid;anmeldungpublic;kvp
+"21687";"322";"10870";"26677";"";"";"";"";"";"";"";"";"";"\n";"";"";"1";"0";"0";"12.03.2024 22:50:00";"0";"0";"0";"";"";"Bezahlart: 2\nName: Herr~~Jürgen~Goschke\nStrasse: Am Försterberg 6\nOrt: ~37133~Friedland, Kr Göttingen\nEmail: juergen@goschke.net\n";"";"0";"0";""
+"21820";"322";"11086";"26677";"";"";"";"";"";"";"";"";"";"\n";"";"";"1";"0";"0";"17.03.2024 13:49:28";"0";"0";"1";"";"";"Bezahlart: 2\nName: Herr~~Jürgen~Goschke\nStrasse: AmFörsterberg 6\nOrt: ~37133~Friedland\nEmail: juergen@goschke.net\n";"";"0";"0";""
+
+[verein_artikel]
+id;mandant;textkurz;textlang;textrechnung;anzahl;typ;preisintern;preisextern;preisausnahmen;mwst;veranstaltungid;gruppenid;kategorie;gewicht;artikelcode;notifyemail;dateienliefern;dateienlieferntyp;ticketsliefern;ticketsrollen;ticketsgruppen;parentid;bestellart;gueltigbis;gueltigab;minanzahl;maxanzahl;zahlungsweise;konto;kontoforderung;lieferantid;bestand;kvp;attachments
+
+[verein_beitraege]
+id;mandant;textk;textl;betrag;mwst;frequenz;useralter;gruppe;datum1;datum2;erstesjahr;letztesjahr;art;konto;kontoforderung;vereinskonto;artzeitpunkt;spendenaktionid;quelle;gruppenid;zweck;abrechnungszeitraum;autoregeln;currency
+"1092";"322";"Jahresbeitrag";"";"25";"0";"12";"";"";"0000-00-00";"0000-00-00";"0";"0";"0";"";"";"0";"0";"0";"1";"0";"";"";"";""
+"1116";"322";"Mitgliedsbetrag";"";"25";"0";"";"";"Jahresbeitrag";"2024-01-01";"2024-12-31";"0";"0";"0";"";"";"0";"0";"0";"1";"0";"";"";"";""
+
+[verein_beitragmitglied]
+id;mandant;userid;anzahl;beitragid;beitraggruppe;datum1;datum2;datumerstellt;gruppenid;kategorie;anmerkung
+
+[verein_bilder]
+id;mandant;veranstaltungid;caption;userid;dateien;bytes;typ;link;haspublic;nachlese;gruppenid
+
+[verein_budgets]
+id;mandant;datum;betrag;anmerkung;gruppenid;konto;kategorie;betragein;betragaus
+
+[verein_einladungen]
+id;mandant;veranstaltungid;userid;targetuserid;anrede;vorname;name;firma;email;ansprache;anmerkungen;urlparameter
+
+[verein_forum]
+id;mandant;userid;parentid;topid;datum;subject;body;attachments;gruppenid;gelesen;notify;notifyart;status
+
+[verein_gruppen]
+id;mandant;name;beschreibung;farbe;vfarbe;typ_v;typ_m;typ_i;typ_d;typ_a;dms;dateien;bytes;standard;acl;email;bild;autoregeln;parentid;public;stunden;sichtbarkeit;appgruppenid;pos
+"2328";"322";"Mitglieder-Infos";"";"";"";"0";"0";"0";"1";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+"2329";"322";"Vorstands-intern";"";"";"";"0";"0";"0";"3";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+"2330";"322";"Interessent";"";"#FF8080";"";"0";"1";"0";"1";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+"2331";"322";"Hörer 2024SS";"";"#80FF80";"";"0";"1";"0";"1";"0";"0";"0";"0";"0";"";"";"";"anmeldung:veranstaltungid=9703";"0";"0";"0";"0";"0";"0"
+"2332";"322";"Newsletter";"";"";"";"0";"1";"1";"0";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+"3016";"322";"Mitglied";"";"";"";"0";"1";"0";"0";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+"3017";"322";"Hörerrat";"";"";"";"1";"1";"0";"1";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+"3018";"322";"Dozentenrat";"";"";"";"1";"1";"0";"1";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+"3019";"322";"Dozent ";"";"";"";"1";"1";"0";"1";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+"3020";"322";"UDL";"";"";"";"1";"1";"0";"0";"0";"0";"0";"0";"0";"";"";"";"";"0";"0";"0";"0";"0";"0"
+
+[verein_gruppenteilnehmer]
+id;mandant;gruppenid;userid;rollenid;status;eintrittmitglied;austrittmitglied;notify;anmerkung
+"57617";"322";"2330";"32453";"0";"0";"0000-00-00";"0000-00-00";"";""
+
+[verein_html]
+id;mandant;link;titel;parentid;pos;nodelist;aktion;content;recht;template;templateparameter;sprache;gruppenid;pagecount
+
+[verein_listen]
+id;mandant;name;schemaid;typ_d;typ_b;typ_s;typ_u;stdsort;stdsort2;stdsort3;formularid
+"367";"322";"Inventarliste Büro";"372";"1";"0";"0";"0";"";"";"";"0"
+
+[verein_listendaten]
+id;mandant;listenid;dataid;datakey;wert
+
+[verein_listenschema]
+id;mandant;name
+"372";"322";"Inventarliste"
+
+[verein_listenschemadetails]
+id;mandant;schemaid;pos;caption;datakey;datatyp;datatypdetails;bedingung;veranstaltungid;pflicht
+"3748";"322";"372";"1";"Inventarnummer";"nr";"";"";"";"0";"0"
+"3749";"322";"372";"2";"Beschreibung";"text";"";"";"";"0";"0"
+"3750";"322";"372";"3";"Angeschafft am";"datum";"datum";"";"";"0";"0"
+"3751";"322";"372";"4";"Wert";"wert";"";"";"";"0";"0"
+"3752";"322";"372";"5";"Ausgeliehen von";"ausgeliehenvon";"mitglieder";"";"";"0";"0"
+"3753";"322";"372";"6";"Ausgeliehen am";"ausgeliehendatum";"datum";"";"";"0";"0"
+"3754";"322";"372";"7";"Leihgebühr";"leihgebuehr";"";"";"";"0";"0"
+
+[verein_mitgliederrollen]
+id;mandant;userid;rollenid;rollenmemberid;datumende
+"17111";"322";"26671";"1865";"0";"0000-00-00 00:00:00"
+"17115";"322";"26677";"1865";"0";"0000-00-00 00:00:00"
+"17914";"322";"26677";"1895";"0";"0000-00-00 00:00:00"
+"17915";"322";"26671";"1895";"0";"0000-00-00 00:00:00"
+"22218";"322";"32453";"1863";"0";"0000-00-00 00:00:00"
+
+[verein_news]
+id;mandant;datum;userid;subject;body;bodytext;public;attachments;gelesen;rubrik;infodatum;verantwortlich;pos;status;prio;gueltigbis;gueltigab;veranstaltungid;gruppenid;rollenid;sprache;gruppennewsid;regional;parentid;empfaenger;newsletterid;teaserzeichen;artikel;kategorie;usergelesen;meldungsart;workflowstatus;workflowuserid;kvp
+"598";"322";"2024-01-12";"26671";"VereinOnline";"<BR><BR>Das Mitglieder-Portal ""VereinOnline"" steht ab sofort allen Mitgliedern zur Verfügung. <br /> <br /> Details siehe <a href=""https://www.vereinonline.org/"" target=""_new"">https://www.vereinonline.org/</a></p>";"";"1";"";"0";"";"";"";"0";"0";"3";"0000-00-00";"0000-00-00";"0";"0";"0";"";"0";"0";"0";"";"0";"0";"";"";"";"0";"0";"0";""
+
+[verein_newsletter]
+id;mandant;datum;userid;sendername;senderemail;bezeichnung;subject;attachments;veranstaltungid;akid;empfaengerauswahl;empfaengeranzahl;empfaengercondition;sent;pdfcommands;mailcommands;ablageordner;userids;postfachid
+
+[verein_newsmeldung]
+id;mandant;subject;datum;sender;body;gelesen;rubrik;infodatum;attachments;verantwortlich;pos;status
+
+[verein_rechnungen]
+id;mandant;userid;rechnungsnummer;datum;zweck;betrag;bezahlt;bezahltdatum;verschicktdatum;status;bezahlart;bezahldetails;mwst;freigegeben;anmerkung;protokoll;attachments;quelle;kategorie;leistungsdatum;beleg;faelligkeit;faelligkeiten;mahnungen;mahnungdatum;workflowstatus;workflowuserid;nutzungsdauer;rechnungstyp;spendedatum;spendenaktionid;spendenart;buchungsstapelid;vereinskonto;bruttonetto;sepatransaktionid;currency;angebotid;created;modified
+"35779";"322";"0";"";"2024-01-21";"Inventur";"0";"0";"0000-00-00";"0000-00-00";"0";"0";"";"0";"";"";"";"";"2";"";"";"";"0000-00-00";"";"0";"0000-00-00";"0";"0";"0";"0";"0000-00-00";"0";"0";"0";"0";"0";"0";"";"0";"2024-01-21 20:13:09/Matthias Conradt";""
+"35780";"322";"26677";"Re-2024-0001";"2024-01-21";"Shop-Einkauf";"125";"125";"2024-01-21";"0000-00-00";"3";"2";"Name: Herr~~Jürgen~Goschke\nStrasse: AmFörsterberg 6\nOrt: ~37133~Friedland, Kr Göttingen\nEmail: juergen@goschke.net\n";"0";"";"";"";"";"0";"";"";"";"0000-00-00";"";"0";"0000-00-00";"0";"0";"0";"0";"0000-00-00";"0";"0";"0";"0";"0";"0";"";"0";"2024-01-21 20:30:36/Jürgen Goschke";"2024-01-21 22:41:01/Jürgen Goschke"
+"47909";"322";"26677";"Re-2024-0002";"2024-03-12";"Anmeldung: Sommersemester 2024 am 01.04.2024";"125";"0";"0000-00-00";"0000-00-00";"1";"2";"Name: Herr~~Jürgen~Goschke\nStrasse: Am Försterberg 6\nOrt: ~37133~Friedland, Kr Göttingen\nEmail: juergen@goschke.net\n";"0";"";"";"";"";"3";"";"";"";"0000-00-00";"";"0";"0000-00-00";"0";"0";"0";"0";"0000-00-00";"0";"0";"0";"0";"0";"0";"";"0";"2024-03-12 22:50:00/Jürgen Goschke";""
+"48850";"322";"26677";"Re-2024-0003";"2024-03-17";"Anmeldung: test am 01.04.2024";"125";"125";"2024-03-17";"0000-00-00";"3";"9";"Name: Herr~~Jürgen~Goschke\nStrasse: AmFörsterberg 6\nOrt: ~37133~Friedland\nEmail: juergen@goschke.net\n";"0";"";"";"";"";"3";"";"";"";"0000-00-00";"";"0";"0000-00-00";"0";"0";"0";"0";"0000-00-00";"0";"0";"0";"0";"0";"0";"";"0";"2024-03-17 13:49:28/Jürgen Goschke";"2024-03-17 13:51:01/Jürgen Goschke"
+
+[verein_rechnungenpos]
+id;mandant;rechnungid;pos;anz;textk;textl;betrag;mwst;betragohnerabatt;rabatt;konto;artikelid;gruppenid;veranstaltungid;aufgabenid;anmeldungid;lagerortid;beitragmitgliedid;beitragdatum1;beitragdatum2
+"31823";"322";"35779";"1";"-500";"";"";"0";"0";"0";"";"I";"0";"0";"0";"0";"0";"0";"0";"0000-00-00";"0000-00-00"
+"31824";"322";"35779";"1";"-500";"";"";"0";"0";"0";"";"I";"0";"0";"0";"0";"0";"0";"0";"0000-00-00";"0000-00-00"
+"31825";"322";"35780";"1";"1";"Sommersemester 2024 ohne Sport";"";"125";"0";"0";"";"8000";"0";"0";"0";"0";"0";"0";"0";"0000-00-00";"0000-00-00"
+"49392";"322";"47909";"1";"1";"Veranstaltung: Sommersemester 2024 am 01.04.2024";"Teilnahmegebühr Mitglied Herr Jürgen Goschke";"125";"0";"125";"";"5000";"0";"0";"10870";"0";"21687";"0";"0";"0000-00-00";"0000-00-00"
+"49892";"322";"48850";"1";"1";"Veranstaltung: test am 01.04.2024";"Teilnahmegebühr Mitglied Herr Jürgen Goschke";"125";"0";"125";"";"5000";"0";"0";"11086";"0";"21820";"0";"0";"0000-00-00";"0000-00-00"
+
+[verein_rollen]
+id;mandant;name;beschreibung;features;acl;typ;vererben;autoregeln
+"1862";"322";"Anonym";"";"start:r eventList:r eventAnmelden:a shopOrder:o shopSpende:o";"";"0";"0";""
+"1863";"322";"Gast";"";"start:r startForum:r eventList:r eventAnmelden:a eventBilder:r pictures:r shopOrder:o membersList:r profileEdit:rw profileInteressen:rw";"";"0";"0";""
+"1864";"322";"Mitglied";"";"start:r startForum:rc eventList:r eventAnmelden:ab eventBilder:r eventEinladen:e pictures:rc shopOrder:o membersList:r membersNewsletter:c membersGeb:r profileEdit:rw profileInteressen:rw";"";"0";"0";""
+"1865";"322";"Vorstand";"";"start:rwcd startForum:rwcd startBlog:rwcd eventList:rwcd eventAbstimmen:rwcd eventAnmelden:rabwcd eventBilder:r eventEinladen:re eventStat:r pictures:rwcd eventExport:r shopOrder:rowd shopAdmin:rwcd shopSpende:rowd membersList:rwcd membersExtern:r membersMail:rc membersMailarchiv:r membersNewsletter:rwcdx membersGeb:r membersBeitrag:rwcd membersRechnungen:rwcd membersExport:r membersStat:r profileEdit:rw profileInteressen:rw dataFiles:Rwcd dataListen:rwcd dataWorkflows:row tasksProjekte:rwcd tasksAufgaben:rwcd tasksMeine:rw platzbuchung:rabwcd platzAdmin:rwcd kasseBelege:c kasseBuchungen:rwcd kasseBudget:rwcd kasseBank:rwcd adminBasis:rw adminVorlagen:rw adminGruppen:rwcd adminRollen:rwcd adminListen:rwcd adminBackup:r adminWunsch:rc";"";"0";"0";""
+"1866";"322";"Projektleiter";"";"start:rwc startForum:rc eventList:rwc eventAbstimmen:rwcd eventAnmelden:rabwc eventBilder:r eventEinladen:re pictures:rc shopOrder:o membersList:r membersMail:c membersNewsletter:rc membersGeb:r profileEdit:rw profileInteressen:rw tasksMeine:rw kasseBelege:c";"";"0";"0";""
+"1895";"322";"Administrator";"";"start:rwcd startForum:Rwcd startBlog:rwcd eventList:Rwcd eventAnmelden:rabwcd eventAbstimmen:Rwcd eventBilder:r eventEinladen:re eventExport:r eventStat:r pictures:rwcd shopOrder:rowd shopAdmin:Rwcd shopSpende:rowd membersList:rwcd membersMail:crx membersMailarchiv:rd membersNewsletter:rwcdx membersGeb:r membersBeitrag:rwcd membersRechnungen:rwcd membersExport:r membersStat:r membersExtern:rwcd profileEdit:rwd profileInteressen:rw platzbuchung:rabwcd platzAdmin:rwcd dataFiles:Rwcd dataListen:rwcd dataWorkflows:row tasksProjekte:rwcd tasksAufgaben:rwcd tasksMeine:rwcd kasseBelege:crx kasseBudget:rwcd kasseBuchungen:Rwcd kasseBank:rwcd adminBasis:rw adminVorlagen:rw adminGruppen:rwcd adminRollen:rwcd adminListen:rwcd adminBackup:r adminWunsch:rc";"";"0";"0";""
+"2269";"322";"Schatzmeister";"";"membersBeitrag:rwcd membersRechnungen:rwcd kasseBelege:cb kasseBudget:rwcd kasseBuchungen:Rwcd kasseBank:rwcd";"";"0";"0";""
+
+[verein_veranstaltungen]
+id;mandant;datum;titel;beschreibung;ort;akid;zeit;anzahltage;ueberlappend;userid;kontakt;kontaktemail;kontakttelefon;kontaktstrasse;kontaktort;kontaktfax;maxpersonen;bild;attachments;remindertagezuvor;remindertarget;kostenmitglied;kostenfremd;kostenbegleitung;kosten;oeffentlich;sichtbarab;remindersent;anmeldemail;anmeldemailcontent;anmeldunguserpublic;typ;anmeldebeginn;anmeldeschluss;vfarbe;hfarbe;datumspezial;sichtbar;sichtbarverband;abmeldeschluss;maxbegleiter;workflowstatus;workflowuserid;akid2;nachlese;remindertagezuvor2;remindertarget2;warteliste;zahlungsweise;acl;anmeldebestaetigungsmail;serienveranstaltungid;bilder;bemerkung;modified;kvp;currency;kurs;versammlung;rv
+"9703";"322";"2024-03-01";"2024 SS ohne Sport";"";"";"3020";"";"1";"0";"26677";"Jürgen Goschke";"juergen@goschke.net";"";"";"";"";"0";"";"";"0";"0";"125";"125";"125";"";"0";"0000-00-00";"0";"0";"";"0";"0";"0000-00-00 00:00:00";"0000-00-00";"";"";"";"0";"0";"0000-00-00";"0";"0";"0";"0";"";"0";"0";"0";"129";"";"1";"0";"1";"";"";"";"";"0";"0";"0"
+"10870";"322";"2024-04-01";"Sommersemester 2024";"";"";"0";"";"1";"0";"26677";"Jürgen Goschke";"juergen@goschke.net";"";"";"";"";"0";"";"";"0";"0";"125";"125";"0";"";"4";"0000-00-00";"0";"0";"";"0";"0";"0000-00-00 00:00:00";"0000-00-00";"";"";"";"0";"0";"0000-00-00";"0";"0";"0";"0";"";"0";"0";"0";"12";"";"1";"0";"1";"";"";"";"";"0";"0";"0"
+"11086";"322";"2024-04-01";"test";"";"";"0";"00:00-23:59";"1";"0";"26677";"Jürgen Goschke";"juergen@goschke.net";"";"";"";"";"0";"";"";"0";"0";"125";"125";"125";"";"0";"0000-00-00";"0";"0";"";"0";"0";"0000-00-00 00:00:00";"0000-00-00";"";"";"";"0";"0";"0000-00-00";"0";"0";"0";"0";"";"0";"0";"1";"12";"";"1";"0";"1";"";"";"";"";"0";"0";"0"
+"11087";"322";"2024-03-01";"SS 2024 mit Sport";"";"";"0";"00:00-23:59";"1";"0";"26677";"Jürgen Goschke";"juergen@goschke.net";"";"";"";"";"0";"";"";"0";"0";"170";"170";"170";"";"0";"0000-00-00";"0";"0";"";"0";"0";"0000-00-00 00:00:00";"0000-00-00";"";"";"";"0";"0";"0000-00-00";"0";"0";"0";"0";"";"0";"0";"0";"129";"";"1";"0";"1";"";"";"";"";"0";"0";"0"
+
+[verein_buchungenpos]
+id;mandant;rechnungid;betrag;konto;unterkonto;rechnungverweisid;kategorie
+"82676";"322";"35780";"-125";"8000";"";"0";""
+"82677";"322";"35780";"125";"1200";"#26677";"0";""
+"111402";"322";"47909";"-125";"5000";"";"0";""
+"111403";"322";"47909";"125";"1200";"#26677";"0";""
+"113535";"322";"48850";"-125";"5000";"";"0";""
+"113536";"322";"48850";"125";"1600";"";"0";""
+
+[verein_bankkonten]
+id;mandant;name;bank;anfangsbestand;konto;regeln;inhaber;kontonr;blz;iban;bic;hbcidaten;hbcilastdatum;hbcipassport;hbcikontoid;currency;sichtbar;kvp
+
+[verein_projekte]
+id;mandant;caption;gruppenid;status
+
+[verein_aufgaben]
+id;mandant;caption;beschreibung;projektid;veranstaltungid;prio;parentid;vorgaengerid;status;fertig;startdatum;endedatum;aufwand;stundensatzart;stundensatz;basisabrechnung;reminder;remindertagezuvor;userid;freigabe;fahrtwegsatz
+
+[verein_aufgabenressource]
+id;mandant;aufgabenid;userid;gruppenid;ressourcenid
+
+[verein_ressourcen]
+id;mandant;caption;anzahl;anmerkung;attachments
+
+[verein_aufgabenlog]
+id;mandant;aufgabenid;userid;datum;stunden;status;anmerkung;rechnungid;workflowstatus;workflowuserid;fahrtwegkm;created;modified
+
+[verein_acl]
+id;mandant;element;elementid;userid;gruppenid;gruppenleiterid;rollenid;allowdeny;rechtname;recht
+
+[verein_mailconfig]
+id;mandant;email;domain;mboxpassword;mboxquota;forwards;forwardsemail;autoresponderstatus;autorespondersubject;autoresponder;status;statustext;commands
+
+[verein_alerts]
+id;mandant;typ;details;userid;aktion;content;protokoll
+
+[verein_formulare]
+id;mandant;listenid;name;content;rechte
+
+[verein_workflows]
+id;mandant;listenid;name;formularid;statuswerte;regeln;statusmails;typ_d;gruppenid;rollenid
+
+[verein_mailbounces]
+id;mandant;email;userid;sendedatum;bouncemessage;bouncedatum
+
+[verein_artikelvormerkungen]
+id;mandant;userid;ordertime;bezahlart;bezahldetails;anmerkung;anzahl;artikelid;veranstaltungid;lagerortid;extrafelder
+
+[verein_spendenaktion]
+id;mandant;name;datumab;datumbis;konto;kontoforderung;zahlungsweise;vereinskonto;spendenziel;prio
+
+[verein_spendenkontakt]
+id;mandant;userid;spendenaktionid
+
+[verein_buchungsstapel]
+id;mandant;name;datumab;datumbis;anzahl;bemerkung
+
+[verein_mails]
+id;mandant;userid;absender;parentid;datum;subject;attachments;extern;postfachid;projektid;status
+
+[verein_mailempfaenger]
+id;mandant;mailid;userid;folderid;gelesen
+
+[verein_dmsnodes]
+id;mandant;gruppenid;parentid;acl;view;sichtbar
+
+[verein_dmsfiles]
+id;mandant;nodeid;name;filename;typ;erstelltam;erstelltvon;geloeschtam;geloeschtvon;anmerkungen
+
+[verein_meinstatus]
+id;mandant;userid;betreff;datum;nachricht;attachments;linktyp;linkid
+
+[verein_plaetze]
+id;mandant;caption;gesperrt;zeiten;gruppenid;typ_v;typ_b;kostenart;kosten;kostenrabatt;kostenabrechnungsart;preisausnahmen;konto;kontoforderung;mwst;freigabe;farbefrei;farbemein;farbebelegt
+
+[verein_platzbuchungen]
+id;mandant;userid;platzid;veranstaltungid;beschreibung;beginn;ende;rechnungid;anmeldungid;anmerkungen;betrag;mwst;bezahldetails;workflowstatus;workflowuserid;serienid
+
+[verein_angebote]
+id;mandant;userid;angebotsnummer;datum;zweck;betrag;status;bezahldetails;mwst;anmerkung;attachments;bruttonetto;leistungsdatum
+
+[verein_angebotepos]
+id;mandant;angebotid;pos;anz;textk;textl;betrag;mwst;konto;veranstaltungid;artikelid
+
+[verein_listenviews]
+id;mandant;listenid;name;spalten;zeilen;gruppenid;rollenid;typ_u;stdsort;stdsort2;stdsort3;gruppierung;filter
+
+[verein_abstimmungen]
+id;mandant;datum;userid;name;beschreibung;gruppenid;rollenid;veranstaltungid;alternativen;werte;anonym;datumende;ergebniswert;berechtigung;code;flags;attachments;kategorie;datumstart;uebergabe
+
+[verein_abstimmungenuser]
+id;mandant;abstimmungid;datum;userid;name;werte;kommentar;infomail;uebergabeuserid
+
+[verein_lagerorte]
+id;mandant;name;userid;versandgewicht;versandanzahl;versandeinmal;acl;kvp
+
+[verein_webparts]
+id;mandant;pageid;zeile;block;pos;typ;caption;parameter;recht;config;sprache;css
+"789";"322";"0";"0";"1";"1";"meldungen";"Aktuelle Informationen";"";"";"";"";""
+"790";"322";"0";"0";"2";"1";"aktionen";"Aktionen";"";"";"";"";""
+
+[verein_einwilligungen]
+id;mandant;userid;action;email;datum;ip
+"334";"322";"32453";"gastantrag";"jg@ggse.de";"2024-03-17 21:22:39";"IP: 93.217.213.69"
+
+[verein_mailfolders]
+id;mandant;caption;parentid;userid;postfachid;typ
+
+[verein_postfaecher]
+id;mandant;caption;email;mailconfigid;mboxserver;mboxuser;mboxpassword;smtpserver;typ;userid;rollenid;gruppenid
+
+[verein_sepatransaktionen]
+id;mandant;kontoid;kref;anzahl;betrag;auftragid;tan;attachments;datumausfuehrung
+
+[verein_vorlagen]
+id;mandant;name;file;typ;status
+
+[verein_versammlungen]
+id;mandant;veranstaltungid;pos;titel;beschreibung;protokoll;attachments;status;abstimmungid;parentid;userid;aufgabenid;logbuch;beschluesse;offen
+
+[verein_ungelesen]
+id;mandant;typ;userid;ungelesen;lastreadid;maxid
+"1706";"322";"A";"26671";"0";"598";"0"
+"1770";"322";"A";"26677";"0";"598";"0"
+"2603";"322";"A";"32453";"0";"598";"0"
+

@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<Export name="Dokumentation der Optionen">
+ <Header>
+  <Column>Options-Bezeichnung</Column>
+  <Column>Options-Code</Column>
+  <Column>Standardwert</Column>
+  <Column>eigene Einstellung</Column>
+ </Header>
+ <Item row="1">
+  <Options-Bezeichnung>Vereinsname</Options-Bezeichnung>
+  <Options-Code>name</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>Universität des Dritten Lebensalters e.V.</eigene_Einstellung>
+ </Item>
+ <Item row="2">
+  <Options-Bezeichnung>Straße</Options-Bezeichnung>
+  <Options-Code>adressestrasse</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>Waldweg 26</eigene_Einstellung>
+ </Item>
+ <Item row="3">
+  <Options-Bezeichnung>Land - PLZ Ort</Options-Bezeichnung>
+  <Options-Code>adresseort</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>37073 Göttingen</eigene_Einstellung>
+ </Item>
+ <Item row="4">
+  <Options-Bezeichnung>Telefon</Options-Bezeichnung>
+  <Options-Code>adressetelefon</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>0551/39-21384</eigene_Einstellung>
+ </Item>
+ <Item row="5">
+  <Options-Bezeichnung>E-Mail</Options-Bezeichnung>
+  <Options-Code>adresseemail</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>office@udl.uni-goettingen.de</eigene_Einstellung>
+ </Item>
+ <Item row="6">
+  <Options-Bezeichnung>Webseite</Options-Bezeichnung>
+  <Options-Code>adresseurl</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>www.uni-goettingen.de/udl</eigene_Einstellung>
+ </Item>
+ <Item row="7">
+  <Options-Bezeichnung>Kontoinhaber</Options-Bezeichnung>
+  <Options-Code>kontoinhaber</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>Universität des Dritten Lebensalters e.V.</eigene_Einstellung>
+ </Item>
+ <Item row="8">
+  <Options-Bezeichnung>Bankname</Options-Bezeichnung>
+  <Options-Code>bank</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>Sparkasse Göttingen</eigene_Einstellung>
+ </Item>
+ <Item row="9">
+  <Options-Bezeichnung>IBAN</Options-Bezeichnung>
+  <Options-Code>iban</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>DE53260500010050589282</eigene_Einstellung>
+ </Item>
+ <Item row="10">
+  <Options-Bezeichnung>BIC</Options-Bezeichnung>
+  <Options-Code>bic</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>NOLADE21GOE</eigene_Einstellung>
+ </Item>
+ <Item row="11">
+  <Options-Bezeichnung>Double-Opt-In nach Aktion</Options-Bezeichnung>
+  <Options-Code>sicherheit.doubleoptin</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>alle</eigene_Einstellung>
+ </Item>
+ <Item row="12">
+  <Options-Bezeichnung>Mitglieder in Mitgliederliste</Options-Bezeichnung>
+  <Options-Code>members.list.intern</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>profil</eigene_Einstellung>
+ </Item>
+ <Item row="13">
+  <Options-Bezeichnung>Willkommens-Titel auf der Startseite</Options-Bezeichnung>
+  <Options-Code>start.titel</Options-Code>
+  <Standardwert>Herzlich willkommen im Mitgliederportal von {#Name#}</Standardwert>
+  <eigene_Einstellung>Herzlich willkommen im Portal von {#Name#}</eigene_Einstellung>
+ </Item>
+ <Item row="14">
+  <Options-Bezeichnung>Webpart Anordnung</Options-Bezeichnung>
+  <Options-Code>startseite.layout</Options-Code>
+  <Standardwert>80-20</Standardwert>
+  <eigene_Einstellung>70-30</eigene_Einstellung>
+ </Item>
+ <Item row="15">
+  <Options-Bezeichnung>"Veranstaltungsart" Standard-Einträge</Options-Bezeichnung>
+  <Options-Code>artveranstaltung.standard</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>no</eigene_Einstellung>
+ </Item>
+ <Item row="16">
+  <Options-Bezeichnung>Anmeldung zu Kursen</Options-Bezeichnung>
+  <Options-Code>events.anmelden.anmeldenkurs</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>spaeter</eigene_Einstellung>
+ </Item>
+ <Item row="17">
+  <Options-Bezeichnung>abweichendes Bankkonto</Options-Bezeichnung>
+  <Options-Code>events.rechnung.bankkonto</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>0</eigene_Einstellung>
+ </Item>
+ <Item row="18">
+  <Options-Bezeichnung>Kontakt Hauptlager</Options-Bezeichnung>
+  <Options-Code>shop.hauptlager.user</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>0</eigene_Einstellung>
+ </Item>
+ <Item row="19">
+  <Options-Bezeichnung>Mitglied anzeigen</Options-Bezeichnung>
+  <Options-Code>members.displayname</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>namemnr</eigene_Einstellung>
+ </Item>
+ <Item row="20">
+  <Options-Bezeichnung>Format für automatisch erzeugte Logins</Options-Bezeichnung>
+  <Options-Code>members.login</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>vna</eigene_Einstellung>
+ </Item>
+ <Item row="21">
+  <Options-Bezeichnung>Minimale Länge</Options-Bezeichnung>
+  <Options-Code>members.passwort.minlaenge</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>10</eigene_Einstellung>
+ </Item>
+ <Item row="22">
+  <Options-Bezeichnung>Komplexität</Options-Bezeichnung>
+  <Options-Code>members.passwort.komplexitaet</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>3</eigene_Einstellung>
+ </Item>
+ <Item row="23">
+  <Options-Bezeichnung>Mitgliedsantrag aktiviert</Options-Bezeichnung>
+  <Options-Code>mitgliedsantrag.enable</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>startintern</eigene_Einstellung>
+ </Item>
+ <Item row="24">
+  <Options-Bezeichnung>Gastantrag aktiviert</Options-Bezeichnung>
+  <Options-Code>gastantrag.enable</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>button</eigene_Einstellung>
+ </Item>
+ <Item row="25">
+  <Options-Bezeichnung>zentraler Mail-Absender</Options-Bezeichnung>
+  <Options-Code>absender</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>Universität des Dritten Lebensalters e.V. </eigene_Einstellung>
+ </Item>
+ <Item row="26">
+  <Options-Bezeichnung>Rückläufer an</Options-Bezeichnung>
+  <Options-Code>absender.bounce</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>z</eigene_Einstellung>
+ </Item>
+ <Item row="27">
+  <Options-Bezeichnung>Subscribe zum Newsletter zulassen</Options-Bezeichnung>
+  <Options-Code>newsletter.subscribe</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>nav</eigene_Einstellung>
+ </Item>
+ <Item row="28">
+  <Options-Bezeichnung>Subscriber Gruppe</Options-Bezeichnung>
+  <Options-Code>newsletter.subscribe.gruppe</Options-Code>
+  <Standardwert></Standardwert>
+  <eigene_Einstellung>Newsletter</eigene_Einstellung>
+ </Item>
+ <Item row="29">
+  <Options-Bezeichnung>Forderungen [A]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.forderung</Options-Code>
+  <Standardwert>1400</Standardwert>
+  <eigene_Einstellung>1200</eigene_Einstellung>
+ </Item>
+ <Item row="30">
+  <Options-Bezeichnung>Verbindlichkeiten [P]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.verbindlichkeit</Options-Code>
+  <Standardwert>1600</Standardwert>
+  <eigene_Einstellung>3300</eigene_Einstellung>
+ </Item>
+ <Item row="31">
+  <Options-Bezeichnung>Barkasse [A]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.kasse</Options-Code>
+  <Standardwert>1000</Standardwert>
+  <eigene_Einstellung>1600</eigene_Einstellung>
+ </Item>
+ <Item row="32">
+  <Options-Bezeichnung>Bank [A]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.bank</Options-Code>
+  <Standardwert>1200</Standardwert>
+  <eigene_Einstellung>1800</eigene_Einstellung>
+ </Item>
+ <Item row="33">
+  <Options-Bezeichnung>Anmeldungen [+]</Options-Bezeichnung>
+  <Options-Code>events.rechnung.konto</Options-Code>
+  <Standardwert>5510</Standardwert>
+  <eigene_Einstellung>5000</eigene_Einstellung>
+ </Item>
+ <Item row="34">
+  <Options-Bezeichnung>Anmeldungen, externe Teilnehmer [+]</Options-Bezeichnung>
+  <Options-Code>events.rechnungextern.konto</Options-Code>
+  <Standardwert>5510</Standardwert>
+  <eigene_Einstellung>5000</eigene_Einstellung>
+ </Item>
+ <Item row="35">
+  <Options-Bezeichnung>Abmeldungen [+]</Options-Bezeichnung>
+  <Options-Code>events.abmeldung.konto</Options-Code>
+  <Standardwert>5510</Standardwert>
+  <eigene_Einstellung>5000</eigene_Einstellung>
+ </Item>
+ <Item row="36">
+  <Options-Bezeichnung>Abmeldungen, externe Teilnehmer [+]</Options-Bezeichnung>
+  <Options-Code>events.abmeldungextern.konto</Options-Code>
+  <Standardwert>5510</Standardwert>
+  <eigene_Einstellung>5000</eigene_Einstellung>
+ </Item>
+ <Item row="37">
+  <Options-Bezeichnung>Mitgliedsbeiträge [+]</Options-Bezeichnung>
+  <Options-Code>members.rechnung.konto</Options-Code>
+  <Standardwert>3000</Standardwert>
+  <eigene_Einstellung>2110</eigene_Einstellung>
+ </Item>
+ <Item row="38">
+  <Options-Bezeichnung>Online-Shop [+]</Options-Bezeichnung>
+  <Options-Code>shop.rechnung.konto</Options-Code>
+  <Standardwert>3900</Standardwert>
+  <eigene_Einstellung>8000</eigene_Einstellung>
+ </Item>
+ <Item row="39">
+  <Options-Bezeichnung>Spenden [+]</Options-Bezeichnung>
+  <Options-Code>shop.rechnung.spenden</Options-Code>
+  <Standardwert>3210</Standardwert>
+  <eigene_Einstellung>3220</eigene_Einstellung>
+ </Item>
+ <Item row="40">
+  <Options-Bezeichnung>Platzbuchungen [+]</Options-Bezeichnung>
+  <Options-Code>platzbuchung.rechnung.konto</Options-Code>
+  <Standardwert>5510</Standardwert>
+  <eigene_Einstellung>5105</eigene_Einstellung>
+ </Item>
+ <Item row="41">
+  <Options-Bezeichnung>Einnahme-Konto [+]</Options-Bezeichnung>
+  <Options-Code>beleg.rechnung.konto</Options-Code>
+  <Standardwert>3900</Standardwert>
+  <eigene_Einstellung>5250</eigene_Einstellung>
+ </Item>
+ <Item row="42">
+  <Options-Bezeichnung>Ausgabe-Konto [-]</Options-Bezeichnung>
+  <Options-Code>beleg.ausgabe.konto</Options-Code>
+  <Standardwert>4830</Standardwert>
+  <eigene_Einstellung>2900</eigene_Einstellung>
+ </Item>
+ <Item row="43">
+  <Options-Bezeichnung>Mahngebühren [+]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.mahnkosten</Options-Code>
+  <Standardwert>3900</Standardwert>
+  <eigene_Einstellung>9288</eigene_Einstellung>
+ </Item>
+ <Item row="44">
+  <Options-Bezeichnung>Rücklastschriften  [-]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.rueckbuchung</Options-Code>
+  <Standardwert>2090</Standardwert>
+  <eigene_Einstellung>6280</eigene_Einstellung>
+ </Item>
+ <Item row="45">
+  <Options-Bezeichnung>PayPal-Gebühren [-]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.paypal</Options-Code>
+  <Standardwert>2110</Standardwert>
+  <eigene_Einstellung>6855</eigene_Einstellung>
+ </Item>
+ <Item row="46">
+  <Options-Bezeichnung>Sachkonten für Abschreibungen [A]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.sachkonten</Options-Code>
+  <Standardwert>6370</Standardwert>
+  <eigene_Einstellung>0630</eigene_Einstellung>
+ </Item>
+ <Item row="47">
+  <Options-Bezeichnung>Abschreibungskonto [-]</Options-Bezeichnung>
+  <Options-Code>kasse.kontorahmen.standard.abschreibung</Options-Code>
+  <Standardwert>2090</Standardwert>
+  <eigene_Einstellung>6220</eigene_Einstellung>
+ </Item>
+</Export>
