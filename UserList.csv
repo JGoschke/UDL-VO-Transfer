@@ -1,0 +1,175 @@
+Benutzername;Professor;Doktor;Vorname;Nachname;Geschlecht;Geburtsjahr;Registrierung;Rabatt;Addresse;PLZ;Stadt;Email;1_Vorwahl;1_Telefonnummer;2_Vorwahl;2_Telefonnummer;Aktiv_Gesperrt;Letzte_Anmeldung;Semester;Einschreibedatum;Hoerernummer;Uni_Vorlesungen_Teilnahme;UDL_Vorlesungen_Teilnahme;Sport_us;Hoerer_us;Sport_sm;Hoerer_sm;Konflikt;Aktiviert;Ausweis_versendet;Mitglied_Beitrittsdatum;Mitglied_Kuendigung;Alumnus;Mitglied_bezahlt;Mitglied_aktiviert
+fmenzel;0;0;Folkard;Menzel;0;1942;1441095438;0;Bramwaldstr. 3;37081;Göttingen;H.F.Menzel@web.de;551;91621;170;3861468;1;1709287100;20241;1709254582;1;1;1;0;1;0;1;0;1;1;1441144800;;2;0;1
+uquedna;0;0;Ulrich;Quednau;0;1951;1441627084;0;Bettina-von-Arnim-Str. 9;37085;Göttingen;Ulrich.Quednau@gmx.de;551;47681;;;1;1710700494;20241;1709263902;2;1;1;0;1;0;1;0;1;1;1441576800;;2;0;1
+jgoschk;0;0;Jürgen;Goschke;0;1959;1666202341;0;am Försterberg 6;37133;Friedland;juergen@goschke.net;5592;5195;;;1;1710703005;20241;1709272280;3;1;1;0;1;0;1;0;1;1;;;;;
+rremmer;0;0;Rosemarie;Remmers;1;1953;1472742111;0;Markwinkel 1;37136;Waake;rose.remmers@web.de;5507;468;;;1;1709365061;20241;1709274450;4;1;1;0;1;0;1;0;1;1;;;;;
+uremmer;0;1;Uwe;Remmers;0;1950;1441103765;0;Markwinkel 1;37136;Waake;uwe.remmers@udl.uni-goettingen.de;5507;468;176;62715164;1;1710662884;20241;1709274498;5;0;1;0;1;0;1;0;1;1;1441058400;;2;0;1
+hspenne;0;0;Heike ;Spenner;1;1957;1679940056;0;Egerstrasse 2;37287;Wehretal;heike.auemuehle@t-online.de;5658;1322;176;55514296;1;1709277742;20241;1709277769;6;1;1;0;1;0;1;0;1;1;;;;;
+hwarnek;0;0;Helmut;Warneke;0;1953;1536138348;0;Am Berge 42;37136;Seulingen;helmut-warneke@web.de;5507;9797824;;;1;1709572203;20241;1709278594;7;1;1;0;1;0;1;0;1;1;1563314400;;2;0;1
+bwitcza;0;0;Birgit;Witczak;1;1964;1457003224;0;Am Brauksweg 16;37083;Göttingen;birgit.witczak@arcor.de;551;705719;;;1;1709280024;20241;1709280052;8;1;1;0;1;0;1;0;1;1;;;;;
+skaunzn;0;0;Sabine;Kaunzner;1;1961;1707467361;0;Am Siebenborn 1;37242;Bad Sooden Allendorf ;sabine.kaunzner@gmx.de;5652;3433;177;2322557;1;1710511553;20241;1709280710;9;1;1;1;1;1;1;0;1;1;;;;;
+mgraben;0;0;Michael;Grabenhorst;0;1953;1507628305;0;St. Hubertusweg 8;38723;Seesen;micha.grabenhorst@gmx.de;5381;5326;;;1;1709307936;20241;1709280786;10;1;1;0;1;0;1;0;1;1;;;;;
+akoch;0;0;Angelika;Koch;1;1949;1700597280;0;Kolmstr. 2;4299;Leipzig;sterneule@gmail.com;179;6822689;;;1;1709310767;20241;1709281735;11;0;1;0;1;;;0;0;0;;;;;
+enauber;0;0;Else;Nauber;1;1942;1441058607;100;Allensteiner Weg 10;37130;Gleichen-Reinhausen;else.nauber@t-online.de;5592;5160;178;8354161;1;1709390755;20241;1709282604;12;0;1;0;1;0;1;0;1;1;1441058400;;2;0;1
+unauber;0;1;Ulrich;Nauber;0;1956;1567449645;0;Allensteiner Weg 10;37130;Gleichen-Reinhausen;ulr.nauber@gmail.com;5592;5160;;;1;1709282695;20241;1709282716;13;1;1;0;1;0;1;0;1;1;;;;;
+bfreric;0;0;Bernd;Frerichs;0;1953;1514802713;0;Alte Dorfstraße 1h;38723;Seesen;Info@bernd-Frerichs.de;5381;6659;5381;98780;1;1709282986;20241;1709283005;14;0;1;0;1;0;1;0;1;1;;;;;
+khoppe;0;0;Karin;Hoppe;1;1955;1534014408;0;Von-Witzleben-Str. 10;37085;Göttingen;karinhoppe-goettingen@t-online.de;551;50837553;178;1439293;1;1710162959;20241;1709283108;15;1;1;0;1;0;1;0;1;1;1693816599;;2;0;1
+jsommer;0;0;Johannes ;Sommerfeld;0;1950;1459930581;0;Allendorfer Weg 3;37318;Wahlhausen;hans.sommerfeld@gmail.com;36087;98623;;;1;1709285731;20241;1709285755;16;1;1;0;1;0;1;0;1;1;;;;;
+alenzen;0;0;Angelika;Lenzen;1;1949;1458123894;0;Valentinsbreite 2 a;37077;Göttingen;angelika.lenzen@gmx.de;551;371235;;;1;1709458977;20241;1709285895;17;1;1;0;1;0;1;0;1;1;;;;;
+rnoll;0;0;Rüdiger;Noll;0;1948;1695200890;0;Ackerröte 14;37077;Göttingen;roger.liebe@gmail.com;551;24986;177;1768224;1;0;20241;1709287733;18;0;0;0;1;0;1;0;1;1;;;;;
+cnoll;0;0;Christiane;Noll;1;1952;1695201004;0;Ackerröte 14;37077;Göttingen;christianeM-D-B@web.de;551;24986;;;1;0;20241;1709287778;19;0;0;0;1;0;1;0;1;1;;;;;
+jklett;0;0;Jutta;Klett;1;1959;1697125884;0;Spandauer Weg 5;37085;Göttingen;jutta.klett@web.de;551;551796857;;;1;1709288490;20241;1709288508;20;1;1;0;1;0;1;0;1;1;;;;;
+hkuessn;0;0;Hans-Joachim;Kuessner;0;1956;1696838779;0;Fr.-v.-Bodelschwingh-Str. 3;37075;Göttingen;hjkuessner@arcor.de;551;25564;;;1;1709289543;20241;1709289655;21;1;1;0;1;0;1;0;1;1;;;;;
+gguetti;0;1;Gabriele;Güttinger;1;1953;1707337575;0;Bebelstr. 62;37081;Göttingen;gabriele.guettinger@gmail.com;157;32272705;;;1;1710410472;20241;1709290178;22;0;1;0;1;0;1;0;1;1;1709290596;;0;0;0
+hoberla;0;0;Helga;Oberländer;1;1956;1680429385;0;Leharweg 16;37154;Northeim;helgamps@gmail.com;1590;2189858;5551;5427602;1;1709715913;20241;1709292363;23;1;1;0;1;0;1;0;1;1;;;;;
+hstoebe;0;0;Heinrich;Stöber;0;1957;1633944344;0;Im Winkel 7;37115;Duderstadt;guhstoeber@t-online.de;5527;74173;;;1;1710234052;20241;1709303711;24;0;1;0;1;0;1;0;1;1;;;;;
+choerl;0;0;Claudia;Hörl;1;1959;1709304006;0;Schöneberger Weg 16;37120;Bovenden;hoecla@gmx.de;551;82118;151;56132879;1;1709542811;20241;1709305236;25;0;1;0;1;0;1;0;1;1;;;;;
+vkochbu;0;1;Volker;Koch-Büttner;0;1952;1441464983;0;Am Brachfelde 2a;37077;Göttingen;v-koch-buettner@t-online.de;551;5076398;;;1;1709311907;20241;1709311945;26;0;1;0;1;0;1;0;1;1;1614806306;;0;0;1
+gdemuth;0;1;Gernot;Demuth;0;1940;1441999739;0;Wallmodenstr. 10;30625;Hannover;gernotdemuth@t-online.de;511;559564;;;1;1710695038;20241;1709314875;27;1;0;0;1;0;1;0;1;1;1441922400;;2;0;1
+cstern;0;0;Christiane;Stern;1;1958;1587759046;0;Rosenbaumweg 30;37124;Rosdorf ;christiane.stern@t-online.de;551;92073;;;1;1709373975;20241;1709374041;28;0;1;0;1;0;1;0;1;1;;;;;
+ukrippa;0;0;Ulrich;Krippahl;0;1956;1590488390;0;Leinestraße 38a;37073;Göttingen;ulrich.krippahl@gmail.com;551;790 54 97;176;5795 1975;1;1709377097;20241;1709377161;29;1;1;0;1;0;1;0;1;1;;;;;
+hwercha;0;0;Helga;Werchan;1;1956;1633799105;0;Zimmermannstraße 66;37075;Göttingen ;helga.werchan@udl.uni-goettingen.de;171;3306684;;;1;1709749169;20241;1709384641;30;0;1;1;1;1;1;0;1;1;1669727158;;2;0;1
+cmulle;0;0;Christiane;Mulle;1;1960;1707571378;0;Von-Witzleben-Str. 10;37085;Göttingen;christiane_mulle@web.de;551;82080919;175;1638319;1;1709388122;20241;1709388269;31;1;1;0;1;0;1;0;1;1;;;;;
+lgruene1;0;0;Liane;Grünewald;1;1957;1707944333;0;Hünstollenstr.18;37136;Waake;lianejuli@gmx.de;157;78308409;5507;1778;1;1709392406;20241;1709392502;32;1;1;0;1;0;1;0;1;1;1709393138;;0;0;0
+aritter;0;0;Anja;Ritter;1;1980;1708718991;50;Kiesseestraße 39 ;37083;Göttingen ;anjaritter80@gmail.com;176;71741730;;;1;1709899257;20241;1709395855;33;0;0;0;1;0;1;0;1;1;;;;;
+gschmid1;0;0;Gertrud;Schmidt;1;1956;1666605295;0;Düstere-Eichen-Weg 38;37073;Göttingen;g.schmidt.Dammer@gmail.com;551;59133;0;0;1;1698399371;20241;1709396040;34;0;0;0;0;0;1;0;0;0;;;;;
+hmichae;0;1;Horst;Michael;0;1950;1475235942;0;Marienstr. 24;37073;Göttingen;horst.michael@t-online.de;151;52612878;551;7707434;1;1710494506;20241;1709396478;35;0;0;0;1;0;1;0;1;1;1475272800;;2;0;1
+uoelke;1;1;Uta;Oelke;1;1957;1679324511;0;Am Feuerschanzengraben 14;37083;Göttingen;oelkeu@t-online.de;551;7702644;172;1901942;1;1709740525;20241;1709401491;36;1;1;0;1;0;1;0;1;1;;;;;
+wbaeck;0;0;Waltraud;Bäck;1;1954;1504821887;0;Bergstraße 2a;37296;Ringgau;waltraudbaeck@aol.com;5658;9999977;160;4646464;1;1709426028;20241;1709426101;37;1;1;0;1;0;1;0;1;1;1505167200;;2;0;1
+cheupst;0;0;Christine ;Heupst;1;1956;1709467129;0;Am Rischen 16;37083;Göttingen ;cheupst@web.de;171;9329167;;;1;1709974935;20241;1709467569;38;0;1;0;1;0;1;0;1;1;;;;;
+mweskam;0;1;Mechthild;Weskamp-Steigertahl;1;1954;1552407458;0;Schöne Aussicht 8;37154;Northeim;Floetentoene@t-online.de;5551;911957;;;1;1709470782;20241;1709470838;39;1;1;0;1;0;1;0;1;1;1587884197;;0;0;1
+nfree;0;0;Norfried;Free;0;1952;1521574013;0;Albert-Einstein-Str. 12;37075;Göttingen;norfried.free@gmx.de;551;485777;170;5511572;1;1709537293;20241;1709537326;40;1;1;0;1;0;1;0;1;1;;;;;
+sstreit;0;0;Sigrun;Streitz-Duisberg;3;1955;1692790251;0;Lötzener Weg 7;37083;Göttingen;sistdu2210@t-online.de;157;86467184;;;1;1709536053;20241;1709537342;41;1;1;1;1;1;1;0;1;1;;;;;
+jkuech;0;0;Jürgen;Küch;0;1956;1600243269;0;Falltor 9;37296;Ringgau;die.kuechs@gmx.de;5658;1410;160;92398563;1;1709544071;20241;1709541571;42;1;1;0;1;0;1;0;1;1;;;;;
+kdoerha;0;0;Karl-Heinz;Dörhage;0;1951;1678795892;0;Glockenkamp 14A;38685;Langelsheim;k.doerhage@t-online.de;5326;86873;160;6102597;1;1709542576;20241;1709542935;43;1;1;0;1;0;1;0;1;1;;;;;
+rpietsc;0;0;Rolf;Pietsch;0;1957;1695977802;0;Friedebreite 3;37130;Gleichen;rolf.pietsch2017@gmail.com;5508;8675;0;0;1;0;20241;1709546670;44;0;0;0;1;0;1;0;1;1;;;;;
+rheise1;0;0;Ralf;Heise;0;1959;1583754335;0;Theodor-Heuss Str.14;37412;Herzberg;susanne_und_ralf.heise@t-online.de;5521;71375;;;1;1709546664;20241;1709546723;45;1;1;0;1;;;0;0;0;;;;;
+mgerken;0;0;Marianne;Gerkens;1;1954;1709547075;0;Görlitzer Str. 47;37085;Göttingen;mary.gerkens@web.de;551;62479;0;0;1;0;20241;1709547087;46;0;0;0;1;0;1;0;1;1;;;;;
+abulla;0;1;Andrea;Bulla;1;1957;1696584738;0;Hermann-Eggers-Str. 13;37085;Göttingen;Bulla57@web.de;0;0;160;93224521;1;0;20241;1709549316;47;0;0;0;1;0;1;0;1;1;;;;;
+sangeli;0;0;Schuchardt;Angelika;1;1957;1697393531;0;Herrenstraße 33;99994;Nottertal-Heilinger Höhen;angelika.schuchardt@yahoo.com;172;7819546;36021;81542;1;1709555999;20241;1709556113;48;0;1;0;1;0;1;0;1;1;;;;;
+khilleb;0;0;Klaus;Hillebrandt;0;1955;1662120533;0;Heinz-Hilpert-Str. 12;37085;Göttingen;klaushillebrandt@t-online.de;176;83012734;551;55001;1;1709557720;20241;1709557824;49;1;1;0;1;0;1;0;1;1;;;;;
+philleb;0;0;Petra;Hillebrandt;1;1954;1590524191;0;Heinz-Hilpert-Str. 12;37085;Göttingen;petra.hillebrandt@t-online.de;176;20406600;;;1;1710251485;20241;1709562680;50;1;1;0;1;0;1;0;1;1;1590525870;;2;0;1
+dbrueni;0;0;Dietmar;Brüning;0;1955;1664290558;0;Freiherr-vom-Stein-Straße 63;37154;Northeim;ducbruening@gmx.de;174;3412780;5551;61619;1;1709566209;20241;1709566317;51;1;1;0;1;0;1;0;1;1;;;;;
+dkutzne;0;0;Doris-Diane ;Kutzner;1;1949;1538992650;0;Georg-Dehio-Weg 1;37075;Göttingen;d-d.kutzner@t-online.de;551;46364;170;2446364;1;1709567028;20241;1709567092;52;1;1;1;1;1;1;0;1;1;;;;;
+clanger;0;0;Christa;Langer;1;1948;1443606718;0;Schneidemühler weg 33;37083;Göttingen;CLanger0410@gmx.de;551;7076850;;;1;1709568464;20241;1709568503;53;1;1;0;1;0;1;0;1;1;;;;;
+bbartsc;0;0;Bernhard;Bartsch;0;1953;1520703320;0;Neidenburger Weg 3;37083;Göttingen;bernhard.bartsch@t-online.de;551;4996485;163;1451458;1;1709570726;20241;1709570801;54;1;1;0;1;0;1;0;1;1;1553554800;;2;0;1
+iisrael;0;0;Ingeborg;Israel;1;1955;1505294230;0;Rosenweg 17;37213;Witzenhausen;inisra@t-online.de;5542;5070709;;;1;1709570873;20241;1709570897;55;1;1;0;1;0;1;0;1;1;;;;;
+akruege;0;0;Alfred;Krüger;0;1955;1681836879;0;Berliner Str. 21;37120;Bovenden;akrue@t-online.de;551;8944;;;1;1709572616;20241;1709572825;56;1;1;0;1;0;1;0;1;1;;;;;
+smuelle;0;0;Sabine;Müller;1;1958;1693991239;0;Ludwig-Beck-Str. 7;37075;Göttingen;sabinemuel@web.de;551;58002;;;1;1709625009;20241;1709625042;57;1;1;0;1;0;1;0;1;1;;;;;
+ndresch;0;0;Niels;Drescher;0;1966;1587373647;50;Pfalz-Grona-Breite 23;37081;Göttingen;NielsDrescher@Nexgo.de;551;2779056;;;1;1709642280;20241;1709626432;58;0;1;0;1;0;1;0;1;1;;;;;
+bsparma;0;1;Barbara;Sparmann-Albert;1;1930;1454259975;0;Wallstr. 1;37154;Northeim;dr.sparmann-albert@t-online.de;5551;2212;;;1;1615731533;20241;1709626771;59;0;0;0;1;0;1;0;1;1;1454194800;;2;0;1
+wihlema;0;0;Wolfgang;Ihlemann;0;1950;1454494822;0;Raabestraße 28;37412;Herzberg;ihlemaenner@t-online.de;5521;997168;;;1;1710001276;20241;1709627126;60;1;1;0;1;0;1;0;1;1;1457478000;;2;0;1
+vgoebel;0;0;Volker;Göbel;0;1957;1693563079;0;Wiesenstraße 23;37073;Göttingen;volker.goebel@posteo.de;176;92371400;;;1;1709629419;20241;1709629488;61;1;1;0;1;0;1;0;1;1;;;;;
+ekruege1;0;0;Edeltraud ;Krüger;1;1953;1616759297;0;Berliner Straße 21;37120;Bovenden;ekrue2013@gmail.com;551;8944;;;1;1710257733;20241;1709632318;62;1;1;0;1;0;1;0;1;1;;;;;
+iarnold;0;0;Ilsabe;Arnold-Dielewicz;1;1944;1443190406;0;Görlitzer Str. 85;37085;Götingen;id.dielewicz@t-online.de;551793630;793630;;;1;1710487581;20241;1709634761;63;1;1;0;1;0;1;0;1;1;1443650400;;2;0;1
+bsohnre;0;0;Bernd;Sohnrey;0;1954;1441611746;0;Seibigstr. 14;37133;Friedland;bernd.sohnrey@t-online.de;5504;98184;170;2817743;1;1709638070;20241;1709637558;64;1;1;0;1;0;1;0;1;1;1442268000;;2;0;1
+jdaeubl;0;0;Jürgen;Däuble;0;1959;1682609227;0;Kalkofen 4;37077;Göttingen;j.a.daeuble@gmx.de;551;2099830;176;72808548;1;1709643627;20241;1709643659;65;1;1;0;1;0;1;0;1;1;;;;;
+lpfaff;0;0;Lothar;Pfaff;0;1953;1709561133;0;OT Gerterode Karl-Marx-Straße 78;37355;Niederorschel;lothar-pfaff@t-online.de;170;8986840;36076;44127;1;1709648391;20241;1709648489;66;1;1;0;1;;;0;0;0;;;;;
+dschroe;0;1;Dieter;Schröder;0;1951;1475389647;0;Grenzweg 1C;38104;Braunschweig;dieter.schroeder.bs@arcor.de;176;21228565;531;363672;1;1709973969;20241;1709652411;67;1;1;0;1;0;1;0;1;1;;;;;
+hwarnho;0;0;Hans-Joachim;Warnholz;0;1956;1443454987;0;Am Kalten Born 2;37085;Göttingen;hans-joachim.warnholz@web.de;551;98098092;;;1;1709826155;20241;1709653156;68;1;1;0;1;0;1;0;1;1;;;;;
+hgerst;0;0;Hans-Erich;Gerst;0;1946;1442398423;0;Hainholzweg 54;37085;Göttingen;iegerst@gmx.net;551;37083749;152;31859267;1;1710089756;20241;1709653727;69;1;1;0;1;0;1;0;1;1;1505167200;;2;0;1
+aschwar;0;0;Andrea;Schwarzbach;1;1955;1657529054;0;Riemannstr. 28;37083;Göttingen;andrea-schwarzbach@gmx.de;551;7703776;171;4883431;1;1709715886;20241;1709715914;70;0;1;0;1;0;1;0;1;1;;;;;
+mthiel;0;0;Marianne;Thiel;1;1938;1679652396;0;Plesseweg 21;37075;Göttingen;thiel.m.waldkirch@icloud.com;551;29126115;;;1;0;20241;1709719251;71;0;0;0;1;0;1;0;1;1;;;;;
+sgralfs;0;0;Susanne;Gralfs;1;1954;1695805071;0;Lange Str. 4d;37130;Gleichen;sgralfs@web.de;551;792866;0;0;1;0;20241;1709719668;72;0;0;0;1;0;1;0;1;1;;;;;
+rbecker1;0;0;Regina;Becker;1;1958;1695804884;0;Lange Str. 8;37130;Gleichen;becker-gina@t-online.de;551;795869;0;0;1;0;20241;1709719756;73;0;0;0;1;0;1;0;1;1;;;;;
+pwhitse;0;0;Pauline;Whitsey-Dyck;1;1948;1616580462;0;Ludwig-Quidde-Weg 12;37077;Göttingen;pdyck@t-online.de;551;33841;;;1;1617790997;20241;1709719865;74;0;0;0;1;0;1;0;1;1;;;;;
+areese;0;0;Annelene;Reese;1;1954;1665565929;50;Am Kirchplatz 14;37213;Witzenhausen;r.luise@web.de;5542;503929;;;1;1710249811;20241;1709720920;75;0;0;0;1;0;1;0;1;1;;;;;
+mfrey;0;0;Manfred;Frey;0;1941;1459071371;100;Lessingstr. 4;34246;Vellmar;manfred.frey@freenet.de;561;826173;;;1;1535710692;20241;1709721567;76;0;0;0;1;0;1;0;1;1;1505426400;;0;0;1
+dhauser;0;0;Dorothea;Hause-Reitner;1;1953;1583748558;0;Zum hohen Brunnen 17;37075;Göttingen;dhr@online.de;551;24228;;;1;1666344199;20241;1709721823;77;0;0;0;1;0;1;0;1;1;;;;;
+azitzke;0;0;Almut;Zitzke-Büttner;1;1958;1698051167;0;Popitzweg 1;37075;Göttingen;almut.zitzke-buettner@gmx.de;551;2054649;0;0;1;0;20241;1709722318;78;0;0;0;1;0;1;0;1;1;;;;;
+wmuehl;0;0;Winfried;Mühl;0;1954;1668445179;0;Friedrich-Jenner-Str. 8;37085;Göttingen;wiramu@mailbox.org;151;40383783;551;48805275;1;1709726082;20241;1709726120;79;0;1;0;1;0;1;0;1;1;1668584574;;2;0;1
+mstoewe;0;0;Manfred;Stoewenau;0;1955;1631623480;0;Sülbachstr. 1;38644;Goslar;manfred-stoewenau@posteo.de;5321;81193;171;8536941;1;1710145717;20241;1709727033;80;1;1;0;1;0;1;0;1;1;1631636312;;2;0;1
+njunker;0;0;Norbert;Junker;0;1956;1678880121;0;Orffstrasse 34;30966;Hemmingen;norbert.junker@gmx.de;5101;584857;177;8967813;1;1710167292;20241;1709728476;81;1;1;0;1;0;1;0;1;1;;;;;
+mengelf;0;0;Marion;Engel-Frühauf;1;1956;1572696217;0;St.Annen 16 a;37242;Bad Sooden-Allendorf;msfrueh@web.de;5652;4362;;;1;1709730654;20241;1709730816;82;0;1;0;1;0;1;0;1;1;;;;;
+sfrueha;0;0;Siegfried;Frühauf;0;1955;1572696106;0;St.Annen 16 a;37242;Bad Sooden-Allendorf;msfrueh@web.de;173;2130194;5652;4362;1;1709731047;20241;1709731062;83;0;1;0;1;0;1;0;1;1;;;;;
+vrammen;0;0;Volker;Rammenzweig;0;0;1709742799;0;Schulstraße 35;37133;Friedland;v.rammenzweig@gmx.de;5504;1876;;;1;1709743929;20241;1709743083;84;0;1;0;1;0;1;0;1;1;1709743978;;0;0;0
+kherbst;0;0;Klaus;Herbst;0;1959;1549349803;0;Hedwig Lange Weg 1;37242;Bad Sooden Allendorf;klausherbst@online.de;5652;919793;;;1;1709748209;20241;1709748252;85;1;1;0;1;0;1;0;1;1;;;;;
+hwissin1;0;0;Hans-Joachim;Wissinger;0;1949;1634726167;0;Güterbahnhofstr. 16;37186;Moringen;AWIS-GmbH@t-online.de;160;6410012;5554;1976;1;1707381671;20241;1709748610;86;0;0;0;0;0;1;0;0;0;;;;;
+sgerhar;0;0;Sigrid;Gerhardy;1;1940;1454695505;0;Am Westerberg 22;37130;Gleichen;wgerhardy@t-online.de;5508;8264;;;1;1535710692;20241;1709749046;87;0;0;0;0;0;1;0;0;0;1455318000;;0;0;1
+rstende;0;1;Roland;Stender;0;1949;1665907141;0;Breslauerstr 15;34369;Hofgeismar;roland.stender@online.de;152;33705466;5675;721296;1;1697623141;20241;1709749316;88;0;0;0;0;0;1;0;0;0;;;;;
+astende;0;0;Anne-Marie;Stender;1;1952;1665907385;0;Breslauerstr 15;34369;Hofgeismar;am.stender@gmx.de;5675;721296;;;1;1697812388;20241;1709749355;89;0;0;0;0;0;1;0;0;0;;;;;
+abeller;0;1;Annette;Beller;1;1960;1705276627;0;Niederwaldstr. 16;34131;Kassel;ajbeller@t-online.de;49;1713072176;;;1;1709758200;20241;1709758250;90;1;1;0;1;0;1;0;1;1;;;;;
+ggundel;0;0;Gundula;Gundelach;1;1952;1442866123;0;Lindenstr. 24;37133;Friedland;gundelach.gundula@t-online.de;5504;949596;;;1;1709772659;20241;1709772755;91;0;1;0;1;0;1;0;1;1;1443650400;;2;0;1
+bwagner;0;0;Bernadette;Wagner;1;1956;1666172301;0;Stumpfe Eiche 10;37077;Göttingen;bernadette.wagner@arcor.de;551;31433;;;1;1682683849;20241;1709804080;92;0;0;0;1;0;1;0;1;1;;;;;
+rbeneck;0;0;Regina;Benecke;1;1940;1443338497;0;Görlitzer Str. 85;37085;Göttingen;RegiBene@t-online.de;551;7974903;;;1;1568389253;20241;1709804368;93;0;0;0;1;0;1;0;1;1;1443650400;;0;0;1
+szachma;0;0;Sieglinde;Zachmann;1;1952;1443981068;0;Otto-Wallach-Weg 6;37075;Göttingen;s.zachmann1952@outlook.de;551;58975;;;1;1709811919;20241;1709811955;94;0;1;0;1;0;1;0;1;1;1456182000;;0;0;1
+aweber;0;0;Anna-Bernadett;Weber;1;0;1696239801;0;Robert-Nelz-Weg 1;37115;Duderstadt;Annetteweber1960@t-online.de;0;0;151;181590334;1;1710076436;20241;1709826099;95;1;1;0;1;0;1;0;1;1;;;;;
+iheise;0;0;Ingrid;Heise;1;1951;1506503069;0;Sperlingsberg 3;37186;Moringen;igheise@t-online.de;5503;3274;;;1;1710687976;20241;1709830972;96;0;1;0;1;0;1;0;1;1;;;;;
+mmeiste;0;0;Manfred;Meister;0;1950;1695634887;0;Jakobistraße 7;37308;Heilbad Heiligenstadt;mmhig@gmx.de;3606;605431;;;1;1710434111;20241;1709845518;97;1;1;0;1;0;1;0;1;1;;;;;
+wniebus;0;0;Wolfgang;Niebusch;0;1955;1473854142;0;Richard-Courant-Weg 23;37077;Göttingen;wolfgang.niebusch@gmx.de;173;2856959;;;1;1709884279;20241;1709884120;98;1;1;0;1;0;1;0;1;1;;;;;
+geckhar;0;0;Gabriele;Eckardt;1;1953;1664356680;0;Schillerstr. 36;37083;Göttingen;gabriele-eckardt@t-online.de;551;600866;0;0;1;1709888667;20241;1709888719;99;0;1;0;1;0;1;0;1;1;;;;;
+svoelke;0;0;Sabine;Völker;1;1960;1694685229;0;Liegnitzer Straße 2;37120;Bovenden;voelker-bovenden@t-online.de;551;82072394;;;1;1694687863;20241;1709890683;100;0;0;0;1;0;1;0;1;1;;;;;
+dfries;0;0;Dagmar;Fries;1;1949;1454258551;0;Zum Kahlen Felde 6;37154;Northeim;daliwo28125@gmail.com;5551;52974;;;1;1535710692;20241;1709890782;101;0;0;0;1;0;1;0;1;1;;;;;
+hstobbe;0;0;Hildegard ;Stobbe;1;1958;1631906076;0;Elbinger Str. 32;37083;Göttingen ;hildegard.stobbe@gmx.de;551;63447990;;;1;1710267212;20241;1709890833;102;0;1;0;1;0;1;0;1;1;;;;;
+wkrumme;0;0;Wolfgang;Krummel;0;1953;1571903588;0;Stegemühlenweg 16;37083;Göttingen;krummel.wolfgang@web.de;551;77 01 931;;;1;1710406647;20241;1709891009;103;1;1;0;1;0;1;0;1;1;;;;;
+dubben;0;0;Doris;Ubben;1;1949;1454432347;0;Adolf-Sievert-Straße 52;37085;Göttingen;doris.ubben@web.de;551;791645;;;1;1535710692;20241;1709893194;104;0;0;0;1;0;1;0;1;1;;;;;
+epionte;0;0;Erika;Piontek;1;0;1648197093;0;Hubertusweg 75;38640;Goslar;piomueller@t-online.de;5321;303578;;;1;1709903381;20241;1709903451;105;0;1;0;1;0;1;0;1;1;;;;;
+hstadtm;0;0;Hubert;Stadtmüller;0;1955;1648138012;0;Hubertusweg 75;38640;Goslar;piomueller@t-online.de;5321;303578;;;1;1709907259;20241;1709907293;106;0;1;0;1;0;1;0;1;1;;;;;
+ehublit;0;0;Erna;Hublitz;1;1951;1679655149;0;Katzengrund 10;37434;Gieboldehausen;erna.hublitz@t-online.de;5528;999787;;;1;1709916435;20241;1709916522;107;1;1;0;1;;;0;0;0;;;;;
+jotto;0;0;Jutta;Otto;1;1953;1553251099;0;Christophorus Weg 14;37075;Göttingen;jotto53@gmx.de;551;300423;;;1;1710245104;20241;1709920418;108;0;1;0;1;0;1;0;1;1;;;;;
+vfrenze;0;0;Vera;Frenzel;1;1939;1453722268;0;Am Kreuze 11;37075;Göttingen;noveamelf@outlook.de;551;42002;;;1;1535710692;20241;1709974604;109;0;0;0;0;0;1;0;0;0;;;;;
+aihme;0;0;Anna-Margarete;Ihme;1;1951;1454261972;0;Arnekenstr. 10a;31134;Hildesheim;abcihme@gmail.com;5121;1740138;;;1;1535710692;20241;1709974671;110;0;0;0;0;0;1;0;0;0;1456182000;;2;0;1
+bbrion;0;0;Barbara;Brion;1;1945;1617633457;0;Schildweg 23;37085;Göttingen;bb@brion-goettingen.de;551;41975;;;1;1710019961;20241;1710020000;111;0;1;0;1;0;1;0;1;1;;;;;
+rrivera;0;0;Rita;Rivera Espejo;1;1954;1568190973;0;Am Sölenborn 4/6;37085;Göttingen;rrivera_de@yahoo.de;551;68798;;;1;1710068682;20241;1710068730;112;1;1;0;1;0;1;0;1;1;;;;;
+uloeffl;0;1;Ulrich;Löffler;0;1956;1678117302;0;Im Sacke 6;37176;Nörten-Hardenberg;uloeffl@yahoo.de;5594;999252;;;1;1710089843;20241;1710089875;113;1;1;0;1;0;1;0;1;1;1694594453;;2;0;1
+gpiecho;0;1;Gudrun;Piechotta-Henze;1;1958;1696323120;0;Am Rischen 14;37083;Göttingen;g.piechotta@t-online.de;551;794640;;;1;1710243342;20241;1710094955;114;1;1;0;1;0;1;0;1;1;;;;;
+bhrusch;0;0;Barbara;Hruschka;1;1956;1646137300;0;Rathausstrasse 22;34346;Hann.Münden;barbara.hruschka@gmx.de;5545;91018;151;40771162;1;1710150437;20241;1710150474;115;1;1;0;1;0;1;0;1;1;;;;;
+uschmid;0;1;Ursula;Schmidt;1;1952;1535971211;0;Düstere- Eichen-Weg 14;37073;Göttingen;Ullaschmidt09@gmail.com;551;484279;;;1;1695904720;20241;1710151376;116;0;0;0;1;0;1;0;1;1;;;;;
+umuelle;0;0;Udo;Müller;0;1955;1442662061;0;Falkenhagen 46;37136;Landolfshausen;famue.46@web.de;5508;411;;;1;1710339134;20241;1710151865;117;1;1;0;1;0;1;0;1;1;1457046000;;2;0;1
+gpresti;0;0;Günter;Presting;0;1955;1694686203;0;Holzweg 38;37124;Rosdorf ;guenter.presting@gmx.de;175;2911947;5509;9247063;1;1710170736;20241;1710170893;118;1;0;0;1;0;1;0;1;1;;;;;
+tgeisle;0;0;Thomas;Geisler;0;1958;1697709732;0;Auf der Schanze 20;37079;Göttingen;geislerthomas@kabelmail.de;171;1255245;551;40139021;1;1710697953;20241;1710187646;119;1;1;0;1;0;1;0;1;1;;;;;
+ajungbe;0;0;Annegret;Jungbehrens;1;1948;1453803909;0;Henri-Dunant-Straße 33;37075;Göttingen;ajube@t-online.de;551;23533;;;1;1710234695;20241;1710234733;120;1;1;0;1;0;1;0;1;1;;;;;
+mjungbe;0;0;Manfred;Jungbehrens;0;1945;1666617261;0;Henri-Dunant-Str.33;37075;Göttingen;aumju@t-online.de;551;23533;171;4163636;1;1710606523;20241;1710234802;121;1;1;0;1;0;1;0;1;1;;;;;
+iwendle;0;1;Irene;Wendler;1;1958;1710235059;0;Schulweg 4;37083;Göttingen;irenewendler@t-online.de;551;89020222;;;1;1710335186;20241;1710235333;122;1;1;0;1;0;1;0;1;1;;;;;
+hgenzel;0;0;Heike;Genzel;1;1966;1668593752;50;Sachsentalstr. 15;37339;Worbis;genzel.heike@yahoo.com;0;0;173;2962165;1;1698309340;20241;1710238487;123;0;0;0;0;0;1;0;0;0;;;;;
+fbrieba;0;0;Franz-Josef;Briebach;0;1950;1453742032;0;Gerbeswarte 12;37115;Duderstadt;x@x.de;5527;1823;;;1;1535710692;20241;1710238780;124;0;0;0;1;0;1;0;1;1;;;;;
+cprang;0;0;Christiane;Prang;1;1950;1694596207;0;Tilsiter Str. 24;37083;Göttingen;cprang2@web.de;551;77587;0;0;1;1694615550;20241;1710238935;125;0;0;0;1;0;1;0;1;1;;;;;
+kbockel;0;0;Kathrin;Bockelmann;1;1958;1648632193;0;Lohbergstr. 17;37085;Göttingen;kebockelmann@web.de;551;57810;;;1;1665564828;20241;1710238991;126;0;0;0;1;0;1;0;1;1;;;;;
+hholzgr;0;0;Hannelore;Holzgraefe;1;1950;1681290237;0;Uhlandstr. 2;38723;Seesen;holzgraefeh@web.de;5381;492829;;;1;0;20241;1710239273;127;0;0;0;1;0;1;0;1;1;;;;;
+hwillro;0;0;Hannelore;Willroth;1;1951;1540711339;0;Tilsiter Str. 9;37120;Bovenden;Hannelore.Willroth@gmx.de;551;81210;;;1;1710252611;20241;1710252647;128;0;1;0;1;0;1;0;1;1;;;;;
+rwilkek;0;0;Rainer;Wilke Kasanický ;0;1970;1697730186;0;Bunsenstraße 9 G;37073;Göttingen ;rainerwilke12@gmail.com;160;93350161;;;1;1710436517;20241;1710260101;129;1;1;0;1;0;1;0;1;1;;;;;
+kgilles;0;0;Kornelia;Gilles;1;1959;1678171774;0;Bramwaldstraße 32a;37081;Göttingen;kornelia.gilles@web.de;55191604;0551/91604;;;1;1710269109;20241;1710269223;130;0;1;0;1;0;1;0;1;1;;;;;
+shuebne;0;1;Sabine;Hübner;1;1954;1666604444;0;Am Rischen 62;37083;Göttingen;sabine.huebner@t-online.de;551;792176;0;0;1;1667999489;20241;1710319369;131;0;0;0;0;0;1;0;0;0;1678887621;;2;0;1
+bluedic;0;0;Barbara;Lüdicke;1;1943;1444987978;0;Großer Bruch 15;37133;Friedland;bmluedicke@yahoo.de;5504;805691;;;1;1696063049;20241;1710319461;132;0;0;0;0;0;1;0;0;0;;;;;
+buhlend;0;0;Bärbel;Uhlendorf;1;1951;1453827970;0;Zur Scharfmühle 13;37083;Göttingen;buhlendorf@t-online.de;551;796020;;;1;1695043704;20241;1710319519;133;0;0;0;0;0;1;0;0;0;;;;;
+pkretsc;0;0;Petra;Kretschmer;1;1957;1663753751;0;Eibenweg 16;37085;Göttingen;petra.kretschmer@gmx.de;0;0;176;52175670;1;0;20241;1710319624;134;0;0;0;1;0;1;0;1;1;1664444469;;2;0;1
+wscholl;0;0;Waltraud;Scholl;1;1942;1698224796;0;Am Brachfelde 13;37077;Göttingen;wa-scholl@t-online.de;551;205018;0;0;1;0;20241;1710319682;135;0;0;0;1;0;1;0;1;1;;;;;
+uhessli;0;0;Ulrike;Heßling;1;1955;1571992481;0;Oldekopstr. 6 A;30659;Hannover;ulrikeludy@web.de;511;653005;;;1;1679684576;20241;1710319737;136;0;0;0;1;0;1;0;1;1;;;;;
+uschanz;0;0;Ulrich;Schanz;0;1947;1505489351;0;Rhönbogen 20;37081;Göttingen;schanz.goettingen@t-online.de;551;93111;171;4868302;1;1698305080;20241;1710320010;137;0;0;0;0;0;1;0;0;0;;;;;
+uschlos;0;0;Ursula;Schlosser;1;1951;1507879136;0;Am Lindenberg 29;37133;Friedland-Reiffenhausen;ursula-schlosser@gmx.de;177;5912320;;;1;1698324611;20241;1710320036;138;0;0;0;0;0;1;0;0;0;;;;;
+iknauf;0;0;Ines;Knauf;1;1944;1454846833;0;Ludwig-Rehn-Str. 2;37242;Bad Sooden-Allendorf;j.knauf@gmx.de;5652;2817;;;1;1535710692;20241;1710323868;139;0;0;0;1;;0;0;0;0;;;;;
+akegler;1;1;Andreas;Kegler;0;1954;1537349601;0;Lerchenstieg 9;34346;Hann. Münden;andreaskegler54@gmail.com;5541;900404;;;1;1710324238;20241;1710324397;140;0;1;0;1;0;1;0;1;1;1678263257;;2;0;1
+ghegerk;0;0;Gerhard;Hegerkamp;0;1958;1710324601;0;Jüdenstr. 19;37115;Duderstadt;gerd.hegerkamp@t-online.de;5527;72480;0;0;1;0;20241;1710324614;141;0;0;0;1;0;1;0;1;1;;;;;
+rjatho;0;0;Rainer;Jatho;0;1959;1710324845;0;Mühlenweg 6;37181;Hardegsen;r.jatho@gmx.de;5505;9997545;0;0;1;0;20241;1710324862;142;0;0;0;1;0;1;0;1;1;;;;;
+hluetge;0;1;Heinrich;Lütge;0;1945;1491818751;0;Henri-Dunant-Str.3a;37075;Göttingen;doc-hltg@t-online.de;551;205004;;;1;1535710692;20241;1710325914;143;0;0;0;1;0;1;0;1;1;1682356774;;2;0;1
+imoelle;0;0;Ingeborg;Möller-Diwo;1;1955;1695935294;0;Schlotfegerweg 10;99974;Mühlhausen;ingeborgmoellerdiwo@me.com;160;97381923;;;1;1710335829;20241;1710335901;144;0;1;0;1;0;1;0;1;1;;;;;
+rtabel;0;0;Regina;Tabel;1;0;1662575741;0;Lerchenstieg9;34346;Hann. Münden;reginatabel@yahoo.de;5541;900404;;;1;1710346779;20241;1710346868;145;0;1;0;1;0;1;0;1;1;;;;;
+pkohlma;0;0;Peter;Kohlmann;0;1962;1710347750;0;Feldstrasse 10;38723;Seesen;kohlmann@me.com;151;40444333;;;1;1710347873;20241;1710347952;146;0;1;0;1;;;0;0;0;;;;;
+sschwar;0;0;Susanne;Schwartz;1;1958;1663269124;0;Sandersbeek 3;37085;Göttingen;sus.schwartz1@gmail.com;176;65603192;;;1;1710354729;20241;1710355222;147;1;1;0;1;0;1;0;1;1;1666022690;;2;0;1
+hknapek;0;0;Hugo;Knapek;0;1955;1663261069;0;Sandersbeek 3;37085;Göttingen;hugoknapek@gmx.de;157;70630701;;;1;1710354808;20241;1710355222;148;0;1;0;1;0;1;0;1;1;1666022692;;2;0;1
+hmuelle4;0;0;Hartmut;Müller;0;1959;1647018535;0;Eichenweg 8;37197;Hattorf am Harz ;hartmut-mueller1@gmx.de;151;22277494;;;1;1693376159;20241;1710408448;149;0;0;0;0;0;1;0;0;0;;;;;
+hbeste;0;0;Herbert;Beste;0;1937;1489488446;0;Londonstr.11;37079;Göttingen;herbert.beste@freenet.de;551;67367;;;1;1695639242;20241;1710408510;150;0;0;0;0;0;1;0;0;0;;;;;
+gtheisb;0;1;Gudrun;Theis-Bärwolff;1;1954;1663580341;0;Nikolausberger Weg 140;37075;Göttingen;g.theis-b@web.de;551;38499593;;;1;1664699987;20241;1710408592;151;0;0;0;0;0;1;0;0;0;;;;;
+rbruns;0;0;Rolf;Bruns;0;1951;1453289902;0;Parkstr. 18;37574;Einbeck-Kreiensen;r-bruns@web.de;5563;7196;;;1;1665935952;20241;1710408666;152;0;0;0;0;0;1;0;0;0;;;;;
+cliersc;0;0;Claudia;Liersch;1;1963;1588241488;0;Röntgenstraße 5;72555;Metzingen;ruc.liersch@t-online.de;7123;200471;;;1;1710408655;20241;1710408694;153;0;1;0;1;0;1;0;1;1;1615805203;;0;0;0
+jknauf;0;0;Jürgen;Knauf;0;1941;1454846900;0;Ludwig-Rehn-Str. 2;37243;Bad Sooden-Allendorf;j.knauf@gmx.de;5652;2817;;;1;1535710692;20241;1710408829;154;0;0;0;0;0;1;0;0;0;;;;;
+hmargen;0;0;Helga;Margenburg;1;1944;1443275355;0;Ewaldstr. 46;37075;Göttingen;helga.margenburg@online.de;551;28169877;173;8487017;1;1710412164;20241;1710412728;155;0;1;0;1;0;1;0;1;1;;;;;
+bwueste;0;1;Benno;Wüstefeld;0;1961;1552034920;0;Wolfsgärten 9;37115;Duderstadt;dr.benno.wuestefeld@t-online.de;491707711;1707711326;5527;979088;1;1710414772;20241;1710414810;156;1;1;0;1;;;0;0;0;;;;;
+vbehlin;0;0;Volker;Behling;0;1947;1441214924;0;Elsterstr. 8;37154;Northeim;volker.behling@gmx.de;5551;66721;;;1;1710416751;20241;1710416796;157;1;1;0;1;0;1;0;1;1;1441144800;1455318000;0;0;1
+vbehlin;0;0;Volker;Behling;0;1947;1441214924;0;Elsterstr. 8;37154;Northeim;volker.behling@gmx.de;5551;66721;;;1;1710416751;20241;1710416796;157;1;1;0;1;0;1;0;1;1;1456095600;;2;0;1
+tdiwo;0;0;Thomas;Diwo;0;1959;1688550439;0;Schlotfegerweg 10;99974;99974 Mühlhausen ;owidt50@me.com;151;12284671;;;1;1710429608;20241;1710429659;158;0;1;0;1;0;1;0;1;1;1688554675;;0;0;1
+jfunke;0;0;Jürgen;Funke;0;1945;1567439158;0;Am Weendespring 24a;37077;Göttingen;j.funke@t-online.de;551;377291;151;46265163;1;1710437536;20241;1710436420;159;0;1;0;1;0;1;0;1;1;;;;;
+mvongra;0;0;Mechthild;von Graevenitz;1;1945;1555491819;0;Planckstr. 12;37073;Göttingen;mechthild_von_graevenitz@gmx.de;551;48866600;;;1;1555491819;20241;1710488647;160;0;0;0;1;0;1;0;1;1;;;;;
+bfrohne;0;0;Brigitte;Frohne;1;1943;1453117492;0;Fridtjof-Nansen-Weg 6;37085;Göttingen;b.frohne@t-online.de;551;5213741;;;1;1664541963;20241;1710488718;161;0;0;0;0;0;1;0;0;0;1456182000;;0;0;1
+mgatzem;0;0;Martina;Gatzemeier;1;0;1476781104;0;Tiefe Str. 36;37339;Ecklingerode;martina-gatzemeier@web.de;396071;3588;;;1;1569311471;20241;1710488807;162;0;0;0;1;0;1;0;1;1;;;;;
+mboetel;0;0;Marion;Bötel;1;1944;1525252615;0;Dörtalsweg 43;37154;Northeim;marion.boetel@live.de;5551;912530;;;1;1535710692;20241;1710489031;163;0;0;0;1;0;1;0;1;1;;;;;
+gmaase;0;0;Günter;Maase;0;1953;1553076866;0;Zum Eichelberg 25;37154;Northeim;gmaase@t-online.de;5551;914214;;;1;1710492024;20241;1710492098;164;0;1;0;1;0;1;0;1;1;;;;;
+hpallin;0;0;Hans-Walter;Pallinger;0;1949;1441181736;0;Auf dem Flöteberg 1;38723;Seesen;pallinger@t-online.de;5381;2095;151;64402292;1;1710496818;20241;1710496882;165;1;1;0;1;0;1;0;1;1;1441144800;;2;0;1
+doldend;0;0;Dorothea;Oldendorf;1;1948;1710497573;0;Am Feldborn 13;37077;Göttingen;dorothea-oldendorf@t-online.de;551;82084339;0;0;1;0;20241;1710497602;166;0;0;0;1;0;1;0;1;1;;;;;
+gkruse;0;0;Gabriele;Kruse;1;1958;1710497849;0;Schlachthofstr. 7;37308;Heiligenstadt;conclave@arcore.de;3606;604804;0;0;1;0;20241;1710497858;167;0;0;0;1;0;1;0;1;1;;;;;
+hdeutsc;0;0;Herbert;Deutsch;0;1947;1441145401;0;Calsowstr. 64a;37085;Göttingen;herbert.deutsch.hd@t-online.de;551;23848;172;1650676;1;1710525597;20241;1710525643;168;0;1;0;1;;;0;0;0;1441144800;;2;0;1
+bhartma;0;1;Brunhild;Hartmann;1;1955;1457361017;0;Eichstr.9;37136;Holzerode;Brunhild.Hartmann1@gmx.de;5507;999580;5528;8666;1;1710577166;20241;1710577205;169;0;1;0;1;;;0;0;0;1473976800;;2;0;1
+fheller;0;0;Friederike-Karola;Heller;1;1957;1694093963;0;Ulmenstr 38 a;37124;Göttingen;friederike-karola.heller@web.de;551;40158090;;;1;1710581360;20241;1710581392;170;0;1;0;1;;;0;0;0;;;;;
+vjohn;0;0;Veronika ;John;1;1963;1691231080;0;Greifswalder Weg 4;37083;Göttingen ;veronika20111963@web.de;1575;622662;;;1;1710592720;20241;1710592746;171;1;1;0;1;;;0;0;0;1698739529;;0;0;1
+skarneh;0;0;Sissi;Karnehm-Wolf;1;1959;1696173921;0;Neidenburger Weg 5a;37083;Göttingen;karnehmwolf@gmail.com;170;3829257;;;1;1710610174;20241;1710610274;172;1;1;0;1;;;0;0;0;1707662433;;0;0;0
+ijarasc;0;0;Ingeborg;Jarasch-Markus;1;1951;1603028640;0;Steinweg 45;37120;Bovenden;k-t-markus@t-online.de;551;82925;;;1;1710610483;20241;1710610520;173;0;1;0;1;;;0;0;0;;;;;
